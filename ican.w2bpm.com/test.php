@@ -1,4 +1,7 @@
 <?
+/*
+it is just a test !!!!!!!!!!!!!!!!!!!
+*/
 //print_r($_SERVER);
 exit;
 require_once("website/conf/map.inc");
