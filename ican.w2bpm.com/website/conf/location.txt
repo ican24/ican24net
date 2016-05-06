@@ -1,0 +1,76 @@
+1	Accra	Greater Accra	1719100	5.560	-0.200
+2	Kumasi	Ashanti	663100	6.690	-1.630
+3	Tamale	Northern	290300	9.400	-0.840
+4	Tema	Greater Accra	263000	5.634	0.008
+5	Obuasi	Ashanti	132300	6.190	-1.660
+6	Teshie	Greater Accra	126100	5.590	-0.100
+7	Bolgatanga	Upper East	98300	10.790	-0.850
+8	Koforidua	Eastern	91100	6.090	-0.260
+9	Takoradi	Western	89600	4.890	-1.760
+10	Sekondi	Western	84400	4.940	-1.720
+11	Sunyani	Brong-Ahafo	83900	7.340	-2.350
+12	Ashiaman	Greater Accra	82700	5.700	-0.330
+13	Cape coast	Central	79900	5.110	-1.250
+14	Ho	Volta	74400	6.600	0.470
+15	Wa	Upper West	69800	10.060	-2.500
+16	Bawku	Upper East	68100	11.060	-0.240
+17	Nkawkaw	Eastern	54800	6.550	-0.780
+18	Yendi	Northern	53400	9.440	-0.010
+19	Tema new town	Greater Accra	51100	5.680	0.070
+20	Swedru	Central	50200	5.540	-0.710
+21	Agogo	Ashanti	49900	6.800	-1.080
+22	Tafo	Ashanti	48000	6.730	-1.620
+23	Nungua	Greater Accra	47300	5.600	-0.070
+24	Madina	Greater Accra	46100	5.680	-0.170
+25	Winneba	Central	44000	5.350	-0.630
+26	Techiman	Brong-Ahafo	41000	7.580	-1.940
+27	Berekum	Brong-Ahafo	38100	7.450	-2.590
+28	Asamankese	Eastern	34300	5.860	-0.670
+29	Hohoe	Volta	34100	7.150	0.470
+30	Aflao	Volta	33900	6.110	1.120
+31	Tarkwa	Western	33800	5.300	-2.000
+32	Nsawam	Eastern	33200	5.810	-0.360
+33	Mampong	Ashanti	32900	7.060	-1.410
+34	Oda	Eastern	32600	5.910	-1.000
+35	Okitsiu	Central	32200	5.650	-0.620
+36	Suhum	Eastern	31900	6.040	-0.450
+37	Anloga	Volta	29900	5.790	0.900
+38	Begoro	Eastern	29600	6.380	-0.390
+39	Wenchi	Brong-Ahafo	29300	7.740	-2.110
+40	Savelugu	Northern	27700	9.620	-0.830
+41	Elmina	Central	27600	5.090	-1.350
+42	Kpandu	Volta	25500	7.000	0.300
+43	Dunkwa	Central	23100	5.960	-1.790
+44	Kintampo	Brong-Ahafo	22600	8.050	-1.730
+45	Prestea	Western	22600	5.440	-2.150
+46	Apam	Central	21800	5.290	-0.730
+47	Axim	Western	21300	4.870	-2.240
+48	Mankranso	Ashanti	20800	6.820	-1.870
+49	Somanya	Eastern	20600	6.110	-0.110
+50	Saltpond	Central	20300	5.200	-1.060
+51	Aburi	Eastern	18700	5.850	-0.180
+52	Salaga	Northern	18500	8.540	-0.520
+53	Konongo	Ashanti	18200	6.620	-1.210
+54	Shama	Western	18200	5.000	-1.650
+55	Foso	Central	16900	5.700	-1.290
+56	Kade	Eastern	16600	6.090	-0.840
+57	Navrongo	Upper East	16300	10.890	-1.090
+58	Ofinso	Ashanti	16300	6.910	-1.660
+59	Bechem	Brong-Ahafo	13300	7.090	-2.030
+60	Keta	Volta	13300	5.910	0.990
+61	Duayaw nkwanta	Brong-Ahafo	12900	7.170	-2.100
+62	Nyakrom	Central	12900	5.630	-0.880
+63	Akropong	Eastern	12500	5.970	-0.090
+64	Komenda	Central	11600	5.050	-1.490
+65	Mumford	Western	11400	5.270	-0.750
+66	Mauri	Western	11100	5.130	-1.200
+67	Bibiani	Ashanti	11000	6.460	-2.330
+68	Ada	Greater Accra	10700	5.770	-0.620
+69	Kete-krachi	Volta	10400	7.800	-0.020
+70	Kibi	Eastern	10100	6.160	-0.560
+71	Mpraeso	Eastern	9400	6.580	-0.730
+72	Anomabu	Greater Accra	9000	5.430	-2.100
+73	Kpandae	Northern	8200	8.470	-0.020
+74	Akim swedru	Eastern	7300	5.900	-1.020
+75	Aboso	Western	5400	5.370	-1.930
+76	Bekwai	Ashanti	3500	6.450	-1.580

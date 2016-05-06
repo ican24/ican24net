@@ -1,0 +1,240 @@
+AFG	Afghanistan	93	29,121,286	647,5	20.65 Billion	AF
+ALB	Albania	355	2,986,952	28,748	12.8 Billion	AL
+DZA	Algeria	213	34,586,184	2,381,740	215.7 Billion	DZ
+ASM	American Samoa	1-684	57,881	199	462.2 Million	AS
+AND	Andorra	376	84	468	4.8 Billion	AD
+AGO	Angola	244	13,068,161	1,246,700	124 Billion	AO
+AIA	Anguilla	1-264	13,254	102	175.4 Million	AI
+ATA	Antarctica	672	0	14,000,000		AQ
+ATG	Antigua and Barbuda	1-268	86,754	443	1.22 Billion	AG
+ARG	Argentina	54	41,343,201	2,766,890	484.6 Billion	AR
+ARM	Armenia	374	2,968,000	29,8	10.44 Billion	AM
+ABW	Aruba	297	71,566	193	2.516 Billion	AW
+AUS	Australia	61	21,515,754	7,686,850	1.488 Trillion	AU
+AUT	Austria	43	8,205,000	83,858	417.9 Billion	AT
+AZE	Azerbaijan	994	8,303,512	86,6	76.01 Billion	AZ
+BHS	Bahamas	1-242	301,79	13,94	8.373 Billion	BS
+BHR	Bahrain	973	738,004	665	28.36 Billion	BH
+BGD	Bangladesh	880	156,118,464	144	140.2 Billion	BD
+BRB	Barbados	1-246	285,653	431	4.262 Billion	BB
+BLR	Belarus	375	9,685,000	207,6	69.24 Billion	BY
+BEL	Belgium	32	10,403,000	30,51	507.4 Billion	BE
+BLZ	Belize	501	314,522	22,966	1.637 Billion	BZ
+BEN	Benin	229	9,056,010	112,62	8.359 Billion	BJ
+BMU	Bermuda	1-441	65,365	53	5.6 Billion	BM
+BTN	Bhutan	975	699,847	47	2.133 Billion	BT
+BOL	Bolivia	591	9,947,418	1,098,580	30.79 Billion	BO
+BIH	Bosnia and Herzegovina	387	4,590,000	51,129	18.87 Billion	BA
+BWA	Botswana	267	2,029,307	600,37	15.53 Billion	BW
+BRA	Brazil	55	201,103,330	8,511,965	2.19 Trillion	BR
+IOT	British Indian Ocean Territory	246	4	60		IO
+VGB	British Virgin Islands	1-284	21,73	153	1.095 Billion	VG
+BRN	Brunei	673	395,027	5,77	16.56 Billion	BN
+BGR	Bulgaria	359	7,148,785	110,91	53.7 Billion	BG
+BFA	Burkina Faso	226	16,241,811	274,2	12.13 Billion	BF
+BDI	Burundi	257	9,863,117	27,83	2.676 Billion	BI
+KHM	Cambodia	855	14,453,680	181,04	15.64 Billion	KH
+CMR	Cameroon	237	19,294,149	475,44	27.88 Billion	CM
+CAN	Canada	1	33,679,000	9,984,670	1.825 Trillion	CA
+CPV	Cape Verde	238	508,659	4,033	1.955 Billion	CV
+CYM	Cayman Islands	1-345	44,27	262	2.25 Billion	KY
+CAF	Central African Republic	236	4,844,927	622,984	2.05 Billion	CF
+TCD	Chad	235	10,543,464	1,284,000	13.59 Billion	TD
+CHL	Chile	56	16,746,491	756,95	281.7 Billion	CL
+CHN	China	86	1,330,044,000	9,596,960	9.33 Trillion	CN
+CXR	Christmas Island	61	1,5	135		CX
+CCK	Cocos Islands	61	628	14		CC
+COL	Colombia	57	47,790,000	1,138,910	369.2 Billion	CO
+COM	Comoros	269	773,407	2,17	658 Million	KM
+COK	Cook Islands	682	21,388	240	183.2 Million	CK
+CRI	Costa Rica	506	4,516,220	51,1	48.51 Billion	CR
+HRV	Croatia	385	4,491,000	56,542	59.14 Billion	HR
+CUB	Cuba	53	11,423,000	110,86	72.3 Billion	CU
+CUW	Curacao	599	141,766	444	5.6 Billion	CW
+CYP	Cyprus	357	1,102,677	9,25	21.78 Billion	CY
+CZE	Czech Republic	420	10,476,000	78,866	194.8 Billion	CZ
+COD	Democratic Republic of the Congo	243	70,916,439	2,345,410	18.56 Billion	CD
+DNK	Denmark	45	5,484,000	43,094	324.3 Billion	DK
+DJI	Djibouti	253	740,528	23	1.459 Billion	DJ
+DMA	Dominica	1-767	72,813	754	495 Million	DM
+DOM	Dominican Republic	1-809, 1-829, 1-849	9,823,821	48,73	59.27 Billion	DO
+TLS	East Timor	670	1,154,625	15,007	6.129 Billion	TL
+ECU	Ecuador	593	14,790,608	283,56	91.41 Billion	EC
+EGY	Egypt	20	80,471,869	1,001,450	262 Billion	EG
+SLV	El Salvador	503	6,052,064	21,04	24.67 Billion	SV
+GNQ	Equatorial Guinea	240	1,014,999	28,051	17.08 Billion	GQ
+ERI	Eritrea	291	5,792,984	121,32	3.438 Billion	ER
+EST	Estonia	372	1,291,170	45,226	24.28 Billion	EE
+ETH	Ethiopia	251	88,013,491	1,127,127	47.34 Billion	ET
+FLK	Falkland Islands	500	2,638	12,173	164.5 Million	FK
+FRO	Faroe Islands	298	48,228	1,399	2.32 Billion	FO
+FJI	Fiji	679	875,983	18,27	4.218 Billion	FJ
+FIN	Finland	358	5,244,000	337,03	259.6 Billion	FI
+FRA	France	33	64,768,389	547,03	2.739 Trillion	FR
+PYF	French Polynesia	689	270,485	4,167	5.65 Billion	PF
+GAB	Gabon	241	1,545,255	267,667	19.97 Billion	GA
+GMB	Gambia	220	1,593,256	11,3	896 Million	GM
+GEO	Georgia	995	4,630,000	69,7	15.95 Billion	GE
+DEU	Germany	49	81,802,257	357,021	3.593 Trillion	DE
+GHA	Ghana	233	24,339,838	239,46	45.55 Billion	GH
+GIB	Gibraltar	350	27,884	7	1.106 Billion	GI
+GRC	Greece	30	11,000,000	131,94	243.3 Billion	GR
+GRL	Greenland	299	56,375	2,166,086	2.16 Billion	GL
+GRD	Grenada	1-473	107,818	344	811 Million	GD
+GUM	Guam	1-671	159,358	549	4.6 Billion	GU
+GTM	Guatemala	502	13,550,440	108,89	53.9 Billion	GT
+GGY	Guernsey	44-1481	65,228	78	2.742 Billion	GG
+GIN	Guinea	224	10,324,025	245,857	6.544 Billion	GN
+GNB	Guinea-Bissau	245	1,565,126	36,12	880 Million	GW
+GUY	Guyana	592	748,486	214,97	3.02 Billion	GY
+HTI	Haiti	509	9,648,924	27,75	8.287 Billion	HT
+HND	Honduras	504	7,989,415	112,09	18.88 Billion	HN
+HKG	Hong Kong	852	6,898,686	1,092	272.1 Billion	HK
+HUN	Hungary	36	9,982,000	93,03	130.6 Billion	HU
+ISL	Iceland	354	308,91	103	14.59 Billion	IS
+IND	India	91	1,173,108,018	3,287,590	1.67 Trillion	IN
+IDN	Indonesia	62	242,968,342	1,919,440	867.5 Billion	ID
+IRN	Iran	98	76,923,300	1,648,000	411.9 Billion	IR
+IRQ	Iraq	964	29,671,605	437,072	221.8 Billion	IQ
+IRL	Ireland	353	4,622,917	70,28	220.9 Billion	IE
+IMN	Isle of Man	44-1624	75,049	572	4.076 Billion	IM
+ISR	Israel	972	7,353,985	20,77	272.7 Billion	IL
+ITA	Italy	39	60,340,328	301,23	2.068 Trillion	IT
+CIV	Ivory Coast	225	21,058,798	322,46	28.28 Billion	CI
+JAM	Jamaica	1-876	2,847,232	10,991	14.39 Billion	JM
+JPN	Japan	81	127,288,000	377,835	5.007 Trillion	JP
+JEY	Jersey	44-1534	90,812	116	5.1 Billion	JE
+JOR	Jordan	962	6,407,085	92,3	34.08 Billion	JO
+KAZ	Kazakhstan	7	15,340,000	2,717,300	224.9 Billion	KZ
+KEN	Kenya	254	40,046,566	582,65	45.31 Billion	KE
+KIR	Kiribati	686	92,533	811	173 Million	KI
+XKX	Kosovo	383	1,800,000	10,887	7.15 Billion	XK
+KWT	Kuwait	965	2,789,132	17,82	179.5 Billion	KW
+KGZ	Kyrgyzstan	996	5,508,626	198,5	7.234 Billion	KG
+LAO	Laos	856	6,368,162	236,8	10.1 Billion	LA
+LVA	Latvia	371	2,217,969	64,589	30.38 Billion	LV
+LBN	Lebanon	961	4,125,247	10,4	43.49 Billion	LB
+LSO	Lesotho	266	1,919,552	30,355	2.457 Billion	LS
+LBR	Liberia	231	3,685,076	111,37	1.977 Billion	LR
+LBY	Libya	218	6,461,454	1,759,540	70.92 Billion	LY
+LIE	Liechtenstein	423	35	160	5.113 Billion	LI
+LTU	Lithuania	370	2,944,459	65,2	46.71 Billion	LT
+LUX	Luxembourg	352	497,538	2,586	60.54 Billion	LU
+MAC	Macao	853	449,198	254	51.68 Billion	MO
+MKD	Macedonia	389	2,062,294	25,333	10.65 Billion	MK
+MDG	Madagascar	261	21,281,844	587,04	10.53 Billion	MG
+MWI	Malawi	265	15,447,500	118,48	3.683 Billion	MW
+MYS	Malaysia	60	28,274,729	329,75	312.4 Billion	MY
+MDV	Maldives	960	395,65	300	2.27 Billion	MV
+MLI	Mali	223	13,796,354	1,240,000	11.37 Billion	ML
+MLT	Malta	356	403	316	9.541 Billion	MT
+MHL	Marshall Islands	692	65,859	181	193 Million	MH
+MRT	Mauritania	222	3,205,060	1,030,700	4.183 Billion	MR
+MUS	Mauritius	230	1,294,104	2,04	11.9 Billion	MU
+MYT	Mayotte	262	159,042	374		YT
+MEX	Mexico	52	112,468,855	1,972,550	1.327 Trillion	MX
+FSM	Micronesia	691	107,708	702	339 Million	FM
+MDA	Moldova	373	4,324,000	33,843	7.932 Billion	MD
+MCO	Monaco	377	32,965	2	5.748 Billion	MC
+MNG	Mongolia	976	3,086,918	1,565,000	11.14 Billion	MN
+MNE	Montenegro	382	666,73	14,026	4.518 Billion	ME
+MSR	Montserrat	1-664	9,341	102		MS
+MAR	Morocco	212	31,627,428	446,55	104.8 Billion	MA
+MOZ	Mozambique	258	22,061,451	801,59	14.67 Billion	MZ
+MMR	Myanmar	95	53,414,374	678,5	59.43 Billion	MM
+NAM	Namibia	264	2,128,471	825,418	12.3 Billion	NA
+NRU	Nauru	674	10,065	21		NR
+NPL	Nepal	977	28,951,852	140,8	19.34 Billion	NP
+NLD	Netherlands	31	16,645,000	41,526	722.3 Billion	NL
+ANT	Netherlands Antilles	599	136,197	960		AN
+NCL	New Caledonia	687	216,494	19,06	9.28 Billion	NC
+NZL	New Zealand	64	4,252,277	268,68	181.1 Billion	NZ
+NIC	Nicaragua	505	5,995,928	129,494	11.26 Billion	NI
+NER	Niger	227	15,878,271	1,267,000	7.304 Billion	NE
+NGA	Nigeria	234	154,000,000	923,768	502 Billion	NG
+NIU	Niue	683	2,166	260	10.01 Million	NU
+PRK	North Korea	850	22,912,177	120,54	28 Billion	KP
+MNP	Northern Mariana Islands	1-670	53,883	477	733 Million	MP
+NOR	Norway	47	5,009,150	324,22	515.8 Billion	NO
+OMN	Oman	968	2,967,717	212,46	81.95 Billion	OM
+PAK	Pakistan	92	184,404,791	803,94	236.5 Billion	PK
+PLW	Palau	680	19,907	458	221 Million	PW
+PSE	Palestine	970	3,800,000	5,97	6.641 Billion	PS
+PAN	Panama	507	3,410,676	78,2	40.62 Billion	PA
+PNG	Papua New Guinea	675	6,064,515	462,84	16.1 Billion	PG
+PRY	Paraguay	595	6,375,830	406,75	30.56 Billion	PY
+PER	Peru	51	29,907,003	1,285,220	210.3 Billion	PE
+PHL	Philippines	63	99,900,177	300	272.2 Billion	PH
+PCN	Pitcairn	64	46	47		PN
+POL	Poland	48	38,500,000	312,685	513.9 Billion	PL
+PRT	Portugal	351	10,676,000	92,391	219.3 Billion	PT
+PRI	Puerto Rico	1-787, 1-939	3,916,632	9,104	93.52 Billion	PR
+QAT	Qatar	974	840,926	11,437	213.1 Billion	QA
+COG	Republic of the Congo	242	3,039,126	342	14.25 Billion	CG
+REU	Reunion	262	776,948	2,517		RE
+ROU	Romania	40	21,959,278	237,5	188.9 Billion	RO
+RUS	Russia	7	140,702,000	17,100,000	2.113 Trillion	RU
+RWA	Rwanda	250	11,055,976	26,338	7.7 Billion	RW
+BLM	Saint Barthelemy	590	8,45	21		BL
+SHN	Saint Helena	290	7,46	410		SH
+KNA	Saint Kitts and Nevis	1-869	51,134	261	767 Million	KN
+LCA	Saint Lucia	1-758	160,922	616	1.377 Billion	LC
+MAF	Saint Martin	590	35,925	53	561.5 Million	MF
+SPM	Saint Pierre and Miquelon	508	7,012	242	215.3 Million	PM
+VCT	Saint Vincent and the Grenadines	1-784	104,217	389	742 Million	VC
+WSM	Samoa	685	192,001	2,944	705 Million	WS
+SMR	San Marino	378	31,477	61	1.866 Billion	SM
+STP	Sao Tome and Principe	239	175,808	1,001	311 Million	ST
+SAU	Saudi Arabia	966	25,731,776	1,960,582	718.5 Billion	SA
+SEN	Senegal	221	12,323,252	196,19	15.36 Billion	SN
+SRB	Serbia	381	7,344,847	88,361	43.68 Billion	RS
+SYC	Seychelles	248	88,34	455	1.271 Billion	SC
+SLE	Sierra Leone	232	5,245,695	71,74	4.607 Billion	SL
+SGP	Singapore	65	4,701,069	693	295.7 Billion	SG
+SXM	Sint Maarten	1-721	37,429	34	794.7 Million	SX
+SVK	Slovakia	421	5,455,000	48,845	96.96 Billion	SK
+SVN	Slovenia	386	2,007,000	20,273	46.82 Billion	SI
+SLB	Solomon Islands	677	559,198	28,45	1.099 Billion	SB
+SOM	Somalia	252	10,112,453	637,657	2.372 Billion	SO
+ZAF	South Africa	27	49,000,000	1,219,912	353.9 Billion	ZA
+KOR	South Korea	82	48,422,644	98,48	1.198 Trillion	KR
+SSD	South Sudan	211	8,260,490	644,329	11.77 Billion	SS
+ESP	Spain	34	46,505,963	504,782	1.356 Trillion	ES
+LKA	Sri Lanka	94	21,513,990	65,61	65.12 Billion	LK
+SDN	Sudan	249	35,000,000	1,861,484	52.5 Billion	SD
+SUR	Suriname	597	492,829	163,27	5.009 Billion	SR
+SJM	Svalbard and Jan Mayen	47	2,55	62,049		SJ
+SWZ	Swaziland	268	1,354,051	17,363	3.807 Billion	SZ
+SWE	Sweden	46	9,555,893	449,964	552 Billion	SE
+CHE	Switzerland	41	7,581,000	41,29	646.2 Billion	CH
+SYR	Syria	963	22,198,110	185,18	64.7 Billion	SY
+TWN	Taiwan	886	22,894,384	35,98	484.7 Billion	TW
+TJK	Tajikistan	992	7,487,489	143,1	8.513 Billion	TJ
+TZA	Tanzania	255	41,892,895	945,087	31.94 Billion	TZ
+THA	Thailand	66	67,089,500	514	400.9 Billion	TH
+TGO	Togo	228	6,587,239	56,785	4.299 Billion	TG
+TKL	Tokelau	690	1,466	10		TK
+TON	Tonga	676	122,58	748	477 Million	TO
+TTO	Trinidad and Tobago	1-868	1,228,691	5,128	27.13 Billion	TT
+TUN	Tunisia	216	10,589,025	163,61	48.38 Billion	TN
+TUR	Turkey	90	77,804,122	780,58	821.8 Billion	TR
+TKM	Turkmenistan	993	4,940,916	488,1	40.56 Billion	TM
+TCA	Turks and Caicos Islands	1-649	20,556	430		TC
+TUV	Tuvalu	688	10,472	26	38 Million	TV
+VIR	U.S. Virgin Islands	1-340	108,708	352		VI
+UGA	Uganda	256	33,398,682	236,04	22.6 Billion	UG
+UKR	Ukraine	380	45,415,596	603,7	175.5 Billion	UA
+ARE	United Arab Emirates	971	4,975,593	82,88	390 Billion	AE
+GBR	United Kingdom	44	62,348,447	244,82	2.49 Trillion	GB
+USA	United States	1	310,232,863	9,629,091	16.72 Trillion	US
+URY	Uruguay	598	3,477,000	176,22	57.11 Billion	UY
+UZB	Uzbekistan	998	27,865,738	447,4	55.18 Billion	UZ
+VUT	Vanuatu	678	221,552	12,2	828 Million	VU
+VAT	Vatican	379	921	0		VA
+VEN	Venezuela	58	27,223,228	912,05	367.5 Billion	VE
+VNM	Vietnam	84	89,571,130	329,56	170 Billion	VN
+WLF	Wallis and Futuna	681	16,025	274		WF
+ESH	Western Sahara	212	273,008	266		EH
+YEM	Yemen	967	23,495,361	527,97	43.89 Billion	YE
+ZMB	Zambia	260	13,460,305	752,614	22.24 Billion	ZM
+ZWE	Zimbabwe	263	11,651,858	390,58	10.48 Billion	ZW

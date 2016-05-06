@@ -1,0 +1,9 @@
+a:10:{s:4:"name";s:9:"Guatemala";s:4:"desc";s:141:"The country has 10.15 million subscribers in total, or a 79.74% penetration rate. [60] (December 2007)
+The country's telcom regulator is SIT.";s:3:"map";i:900;s:4:"iso2";N;s:4:"iso3";s:3:"GTM";s:5:"phone";N;s:10:"population";N;s:4:"area";N;s:3:"gdp";N;s:9:"operators";a:5:{i:0;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:4:"Tigo";s:10:"Technology";s:27:"GSM, GPRS, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:23:"4.678 [61] (March 2009)";s:9:"Ownership";s:9:"MIC (55%)";}i:1;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:5:"Claro";s:10:"Technology";s:63:"CdmaOne
+CDMA2000 1x, CDMA2000 EV-DO
+GSM, GPRS, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:22:"2.979 [62] (June 2007)";s:9:"Ownership";s:23:"América Móvil (99.2%)";}i:2;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:8:"movistar";s:10:"Technology";s:63:"CdmaOne
+CDMA2000 1x, CDMA2000 EV-DO
+GSM, GPRS, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:25:"1.49 [63] (December 2006)";s:9:"Ownership";s:18:"Telefónica (100%)";}i:3;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:7:"Digicel";s:10:"Technology";s:25:"GSM, GPRS, EDGE (Planned)";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:7:"Digicel";}i:4;a:5:{s:3:"num";s:1:"5";s:8:"Operator";s:7:"Infonet";s:10:"Technology";s:4:"iDEN";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:8:"Intelfon";}}}

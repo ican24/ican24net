@@ -1,0 +1,30 @@
+a:10:{s:4:"name";s:11:"Netherlands";s:4:"desc";s:105:"Netherlands has 19.927 million subscribers in total, or a 120.57% penetration rate [103] (December 2008).";s:3:"map";i:971;s:4:"iso2";s:2:"NL";s:4:"iso3";s:3:"NLD";s:5:"phone";s:3:"31 ";s:10:"population";s:16:"16,715,999 (60) ";s:4:"area";s:13:"41,543 (141) ";s:3:"gdp";s:18:"672 Billion (21) 
+";s:9:"operators";a:24:{i:0;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:45:"KPN
+â€¢Includes the previous Telfort network.";s:10:"Technology";s:29:"GSM, GPRS
+UMTS , HSDPA, HSUPA";s:11:"Subscribers";s:21:"8.8 [104] (June 2007)";s:9:"Ownership";s:3:"KPN";}i:1;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:49:"T-Mobile
+â€¢Includes the previous Orange network.";s:10:"Technology";s:21:"GSM, GPRS
+UMTS, HSDPA";s:11:"Subscribers";s:26:"5.3 [105] (September 2008)";s:9:"Ownership";s:16:"Deutsche Telekom";}i:2;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:28:"Vodafone
+(Formerly Libertel)";s:10:"Technology";s:21:"GSM, GPRS
+UMTS, HSDPA";s:11:"Subscribers";s:27:"4.252 [106] (December 2007)";s:9:"Ownership";s:8:"Vodafone";}i:3;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:49:"LycaMobile
+(using Vodafone (previously T-mobile))";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:7:"LycaTel";}i:4;a:5:{s:3:"num";s:1:"5";s:8:"Operator";s:24:"Ortel Mobile
+(using KPN)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"KPN";}i:5;a:5:{s:3:"num";s:1:"6";s:8:"Operator";s:45:"TELE2 Mobiel
+(switching from KPN to T-Mobile)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:5:"TELE2";}i:6;a:5:{s:3:"num";s:1:"7";s:8:"Operator";s:25:"Lebara Mobile
+(using KPN)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:12:"Lebara Group";}i:7;a:5:{s:3:"num";s:1:"8";s:8:"Operator";s:17:"Simyo
+(using KPN)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"KPN";}i:8;a:5:{s:3:"num";s:1:"9";s:8:"Operator";s:19:"Debitel
+(using KPN)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:9;a:5:{s:3:"num";s:2:"10";s:8:"Operator";s:19:"Chippie
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:10;a:5:{s:3:"num";s:2:"11";s:8:"Operator";s:20:"Ben
+(using T-Mobile)";s:10:"Technology";s:21:"GSM, GPRS
+UMTS, HSDPA";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:16:"Deutsche Telekom";}i:11;a:5:{s:3:"num";s:2:"12";s:8:"Operator";s:21:"Ay Yildiz
+(using KPN)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"KPN";}i:12;a:5:{s:3:"num";s:2:"13";s:8:"Operator";s:19:"Euphony
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:13;a:5:{s:3:"num";s:2:"14";s:8:"Operator";s:23:"Hema Mobiel
+(using KPN)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:4:"Hema";}i:14;a:5:{s:3:"num";s:2:"15";s:8:"Operator";s:27:"Internet Overal
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:15;a:5:{s:3:"num";s:2:"16";s:8:"Operator";s:23:"Rabo Mobiel
+(using KPN)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:9:"Rabo Bank";}i:16;a:5:{s:3:"num";s:2:"17";s:8:"Operator";s:26:"Scarlet Mobile
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:17;a:5:{s:3:"num";s:2:"18";s:8:"Operator";s:18:"Simpel
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:18;a:5:{s:3:"num";s:2:"19";s:8:"Operator";s:25:"Smile Telecom
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:19;a:5:{s:3:"num";s:2:"20";s:8:"Operator";s:33:"Stream Communications
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:20;a:5:{s:3:"num";s:2:"21";s:8:"Operator";s:21:"TrendCall
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:21;a:5:{s:3:"num";s:2:"22";s:8:"Operator";s:27:"Wireless Circle
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:22;a:5:{s:3:"num";s:2:"23";s:8:"Operator";s:23:"Yes Telecom
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:23;a:5:{s:3:"num";s:2:"24";s:8:"Operator";s:19:"Youfone
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}}}

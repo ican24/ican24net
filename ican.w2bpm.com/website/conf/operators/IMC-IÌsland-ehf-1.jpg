@@ -1,0 +1,1827 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="fb:admins" content="645850905" />
+
+<title>Page not found - MembershipMembership</title>
+    
+<meta name="title" content="MembershipMembershipMembershipMembershipMembershipMembershipMembershipMembershipMembershipMembership" />
+    <meta name="keywords" content="GSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectorsGSMA, membership, represents, interests, mobile, operators, worldwide, 800 operators, 250 companies, ecosystem, handset, device, software, companies, equipment, providers, Internet, organisations, adjacent, industry, sectors" />
+	<meta name="description" content="The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors." />
+        
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/style.css?version=1.0" />
+<link rel="pingback" href="http://www.gsma.com/membership/xmlrpc.php" />
+
+<!--[if lt IE 9]>
+	<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/respond.min.js"></script>
+	<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/html5.js"></script>
+	<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/nwmatcher-1.2.5-min.js"></script>
+	<script type="text/javascript" src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/selectivizr-min.js"></script>    
+<![endif]-->
+<!--[if lt IE 8]>
+<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/IE8.js"></script>
+<![endif]-->
+
+<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/jquery-1.10.1.min.js"></script>
+<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/jquery.mousewheel.js"></script>
+<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/perfect-scrollbar.js"></script>
+<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/jquery.selectbox-0.2.min.js"></script>
+<script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/owl.carousel.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+
+<script>
+ 
+  
+function viewport() {
+    var e = window, a = 'inner';
+    if (!('innerWidth' in window )) {
+        a = 'client';
+        e = document.documentElement || document.body;
+    }
+    return { width : e[ a+'Width' ] , height : e[ a+'Height' ] };
+}
+
+
+var f = function($current) {
+	   
+       $current.css({"display":"block"}).animate({            
+		    opacity: 1			
+    }, function() {		     
+         f($current.next(".inner"));
+       
+    });		   
+};
+
+
+
+$.noConflict();
+jQuery(document).ready(function($) {
+
+ $.fn.fitText = function( kompressor, options ) {
+
+    // Setup options
+    var compressor = kompressor || 1,
+        settings = $.extend({
+          'minFontSize' : Number.NEGATIVE_INFINITY,
+          'maxFontSize' : Number.POSITIVE_INFINITY
+        }, options);
+
+    return this.each(function(){
+
+      // Store the object
+      var $this = $(this);
+
+      // Resizer() resizes items based on the object width divided by the compressor * 10
+      var resizer = function () {
+        $this.css('font-size', Math.max(Math.min($this.width() / (compressor*10), parseFloat(settings.maxFontSize)), parseFloat(settings.minFontSize)));
+      };
+
+      // Call once to set.
+      resizer();
+
+      // Call on resize. Opera debounces their resize by default.
+      $(window).on('resize.fittext orientationchange.fittext', resizer);
+
+    });
+
+  };
+
+
+
+function fnIsAppleMobile() 
+{
+    if (navigator && navigator.userAgent && navigator.userAgent != null) 
+    {
+        var strUserAgent = navigator.userAgent.toLowerCase();
+        var arrMatches = strUserAgent.match(/(iphone|ipod|ipad)/);
+        if (arrMatches) 
+             return true;
+    } // End if (navigator && navigator.userAgent) 
+
+    return false;
+} // End Function fnIsAppleMobile
+
+
+var haveAppleMobile = fnIsAppleMobile();
+if(haveAppleMobile==true)
+{
+   $('body').find('#wcEmbed').remove();   
+}
+
+
+
+
+$('.box h2').fitText(0.95); 
+$('.box h1').fitText(0.7); 
+$('.box h3').fitText(1.3); 
+$('.box p').fitText(2.0);
+$('.box .title').fitText(1.6);
+
+$('.entry').find('.toogleClass').each(function(){
+     $(this).parent().find('.description').hide();
+});
+
+$('.toogleClass').on('click',function(event){
+    $(this).parent().find('.description').slideToggle();
+	event.preventDefault(); 
+});
+
+
+
+$( "#date_from" ).datepicker({
+defaultDate: "+1w",
+changeMonth: true,
+numberOfMonths: 3,
+onClose: function( selectedDate ) {
+$( "#date_to" ).datepicker( "option", "minDate", selectedDate );
+}
+});
+
+$( "#date_to" ).datepicker({
+defaultDate: "+1w",
+changeMonth: true,
+numberOfMonths: 3,
+onClose: function( selectedDate ) {
+$( "#date_from" ).datepicker( "option", "maxDate", selectedDate );
+}
+});
+
+
+
+
+function paginateAjax(){ 
+
+$(".wp-pagenavi").find("a").each(function(){
+	
+	var url_to_set = "";	
+	
+	var num_init_all = $(this).prop('href').split('/');
+	
+	
+	
+	var num_init = parseInt(num_init_all.splice(-2,1));
+		 
+			
+	if(isNaN(num_init))
+	{
+	  num_init = 1;
+	}
+	
+		
+	$(this).prop('href',url_to_set+"page/"+num_init);
+	
+	$(this).on('click',function(event){
+		        
+		var num = parseInt($(this).prop('href').split('/').pop());
+		
+		if(isNaN(num))
+		{
+		 num = 1;
+		}
+				  
+		var values = $("#searchform").serialize();
+		
+		 
+		
+		
+		 
+		event.preventDefault(); 
+		
+		/* get some values from elements on the page: */  
+   
+    $.ajax({
+      url: "http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/search_post.php",
+      type: "post",	  
+	  dataType: "html",     
+	  cache: false,	
+	  data:values+ '&page='+num,
+      beforeSend: function(before){
+	      $('#filtered_content').html("<p class='newload' style='text-align:center;width:100%;'><img style='padding:50px 0; float:none;' src='http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/images/spinner.gif' alt='Loading posts' title='Loading posts' /></p>"); 				
+			
+		 
+      },
+	  success: function(succes){
+		 
+		   //$('.newload').remove();
+		    	  
+		   $('#filtered_content').html(succes); 
+		   alreadyloading = false;
+		   f($('#filtered_content').children('.inner:first'));  
+		   paginateAjax();
+		 
+      },
+      error:function(error){
+      }   
+    }); 
+		
+		 
+	});
+
+
+});	
+	
+}
+
+
+
+
+
+
+
+    
+function search_post() {
+ $("#searchform").submit(function(event) { 
+  alreadyloading = true;
+  /* stop form from submitting normally */
+  event.preventDefault();  
+ 
+    /* get some values from elements on the page: */
+   var values = $("#searchform").serialize();
+   
+  /* Send the data using post and put the results in a div */
+     $.ajax({
+      url: "http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/search_post.php",
+      type: "post",	  
+	  dataType: "html",
+	  cache: false,		  	
+      data: values,	    
+      beforeSend: function(before){ 	  
+	  	    
+	      $('#filtered_content').html("<p class='newload' style='text-align:center;width:100%;'><img style='padding:50px 0; float:none;' src='http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/images/spinner.gif' alt='Loading posts' title='Loading posts' /></p>"); 				
+			
+		 
+      },
+	  success: function(succes){
+		   //$('.newload').remove();
+		   		  	  
+		   $('#filtered_content').html(succes); 
+		   alreadyloading = false;
+		   f($('#filtered_content').children('.inner:first'));  
+		   paginateAjax();
+		 
+      },
+      error:function(error){
+          
+            
+      }   
+    }); 
+  });
+}	
+	
+	
+	
+
+
+function search_keyword() {
+
+  var delay = (function(){
+  var timer = 0;
+  return function(callback, ms){
+    clearTimeout (timer);
+    timer = setTimeout(callback, ms);
+  };
+})();
+
+
+	 
+ $("#keyword").keyup(function(event) { 
+ 
+ 
+ if ($.trim($(this).val()).length > 0 && event.which != 13)
+ {
+  
+  delay(function(){	 
+  	 
+  alreadyloading = true;
+  /* stop form from submitting normally */
+  event.preventDefault();  
+ 
+    /* get some values from elements on the page: */
+   var values = $("#searchform").serialize();
+   
+  /* Send the data using post and put the results in a div */
+     $.ajax({
+      url: "http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/search_post.php",
+      type: "post",	  
+	  dataType: "html",
+	  cache: false,		  	
+      data: values+"&secondary_action=search",	    
+      beforeSend: function(before){ 	  
+	  	  $('#keyword').parent().find('.sbOptions').remove(); 
+		  $('#keyword').parent().append('<ul class="sbOptions" id="list_keys" style="top:39px; width:100%; max-height: 114.133px; display: block;"><li style="text-align: center;"><img style="padding:50px 0; float:none;" src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/images/spinner.gif" alt="Loading posts" title="Loading posts" /></li></ul>');
+	 
+			
+		 
+      },
+	  success: function(succes){
+		   //$('.newload').remove();
+		   $('#keyword').parent().find('.sbOptions').html(succes);	  	  
+		   
+		   // $('#filtered_content').html(succes); 
+		   
+		   alreadyloading = false;
+		   
+		  
+		 
+      },
+      error:function(error){
+          
+            
+      }   
+    }); 
+	
+	},500); 
+	
+ }
+ else
+ 
+ {
+	$(this).parent().find('.sbOptions').fadeOut(function(){$(this).parent().find('.sbOptions').remove();}); 
+ }
+  	
+  });
+  
+  
+	$("body,html").on("click", function() {
+		 $("#keyword").parent().find('.sbOptions').fadeOut(function(){$(this).parent().find('.sbOptions').remove();}); 
+	}); 
+    
+	
+	$('#keyword').parent().on("click", function(event){
+        event.stopPropagation();
+    });
+	
+  
+  
+}	
+
+
+
+
+	
+	
+	// scroll menu
+	//$('.side_menu').perfectScrollbar({
+//       wheelSpeed: 20,
+//       wheelPropagation: false
+//    });
+	
+	
+	$(".current-menu-item:last").parents(".sub-menu").show();	
+	
+	$(".current-menu-item:last").next(".sub-menu").show();
+	
+	$(".current-menu-item:last").children(".sub-menu").show();
+	
+	$(".width-value").text(viewport().width);	
+	
+	$('#desk li').not($('#desk li:eq(3)')).on("click", function() {
+		
+		if($(this).hasClass("open"))
+		{
+			$("#topload").css({"height":0});
+			$(this).removeClass("open");
+		}
+		else
+		{	
+		
+		//var header_root = "/allnavs/";	
+		
+		// the live menu
+		var header_root = "http://www.gsma.com/common2013/gsma_header_footer/allnavs/";	
+		
+		var fresh_menu =  $(this).children('a').prop('rel')+".html";
+ 
+
+
+   $.ajax({
+      url: "http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/proxy.php",
+      type: "get",	  
+	  dataType: "html",
+	  cache: false,		  	
+      data:'geturl='+header_root+fresh_menu,
+      beforeSend: function(before){ 			
+		 
+      },
+	  success: function(succes){
+		$("#apender").html(succes);	
+		$("#dynamic_container > li").fadeOut(300,function(){
+				$(this).remove();
+				$("#dynamic_container").html($("#apender").html());    
+									    
+				var margins = parseInt($("#dynamic_container").css("margin-top"))+parseInt($("#dynamic_container").css("margin-bottom")); 
+		
+				var new_height = $("#dynamic_container").height()+margins;
+		
+				$("#topload").addClass("transit").css({"height":new_height});
+			});					 
+      },
+      error:function(error){          
+            
+      }   
+    }); 
+
+
+//$("#apender").load("/allnavs/"+fresh_menu,function(){			
+//			   
+//			$("#dynamic_container > li").fadeOut(300,function(){
+//				$(this).remove();
+//				$("#dynamic_container").html($("#apender").html());    
+//									    
+//				var margins = parseInt($("#dynamic_container").css("margin-top"))+parseInt($("#dynamic_container").css("margin-bottom")); 
+//		
+//				var new_height = $("#dynamic_container").height()+margins;
+//		
+//				$("#topload").addClass("transit").css({"height":new_height});
+//			});				
+//			
+//	    });	
+
+        
+ 
+ 
+		
+		
+		$("#desk li").not(this).removeClass("active open");
+		$(this).addClass("active open");					 
+	    }
+	
+	});
+	
+	
+	
+	$("#dynamic_nav .close").on("click",function(){		 
+		$("#topload").css({"height":0});
+		$("#desk li").removeClass("open");	
+	});
+	
+	
+	
+//mobile menu
+	
+var aj_calls = 0;
+$("#menu > li").each(function(i){
+	
+	var this_li = $(this).index();
+	var this_li_cont = $("#menu > li:eq('"+this_li+"')").html();
+    
+    var header_root = "http://www.gsma.com/common2013/gsma_header_footer/mobile_navs/";	
+	var fresh_menu =  $(this).children('a').prop('rel')+".html";
+    
+	
+   $.ajax({
+	  url: "http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/proxy.php", 
+      //url: "proxy.php",
+      type: "get",	  
+	  dataType: "html",
+	  cache: false,		  	
+      data:'geturl='+header_root+fresh_menu,
+      beforeSend: function(before){ 			
+		 
+      },
+	  success: function(succes){
+	    $("#menu > li:eq('"+this_li+"')").prop("id","temp_li");  
+		$("#menu > li:eq('"+this_li+"')").html(this_li_cont+"<ul>"+succes+"</ul>");
+		
+      },
+      error:function(error){          
+            
+      } 
+	  ,
+	  complete:function(complete){  
+		  aj_calls++;
+		  if(aj_calls==1)
+		  {
+			setTimeout (function(){
+				 filter_mobile_menu();
+			},200); 
+		  	 
+		  }
+      } 
+	  
+    }); 
+	 
+	
+}); 
+
+
+	
+function filter_mobile_menu(){
+	
+	$("#menu_holder").find("li").each(function(){		
+		  
+		  $(this).removeAttr("class");		    
+		   
+		  var has_child = $(this).find("ul").length;
+		  
+		  if(has_child > 0)
+		  {						  
+			  $(this).addClass("has_child");				 		    
+			  $(this).children("ul").prepend("<li class='back'><a href='javascript:void(0)'>"+$(this).children("a").text()+"</a></li><li class='just_link'><a href='"+$(this).children("a").prop('href')+"'>Overview</a></li>"); 
+			   $(this).children("a").prop("href","javascript:void(0)");	
+		      //$(this).children("a").remove();			  
+		  }
+		  else
+		  {
+			 $(this).addClass("just_link");		 
+		  }		  
+		  
+	  });
+	      
+	 
+	$("#menu_holder").find("li").each(function(){
+				  
+		   var set_top = ($(this).prevUntil($(this).closest("ul")).length) * 46;
+		  
+		   $(this).css({"top":set_top+"px"}); 		   
+		   
+		   $(this).find("ul").not("#menu").css({"marginTop":-set_top+"px"});	
+	          
+	});
+	  	
+	
+	
+	var do_anything = false;	 
+	
+	 $(".has_child").each(function(){
+	
+	 	
+	 $(this).on("click", function() {     
+		
+		  if (do_anything==false)
+		   {
+		  
+		  do_anything=true;
+		  	   
+		  var show_this = $(this).children("ul");
+	      show_this.show();
+		  
+		  var holder_height = show_this.children("li:last").css("top").replace("px", "");		  
+		  
+		  var holder_height_clean =  parseFloat(holder_height) + parseFloat(46)+"px";
+		  
+		  $("#menu_holder").height("1000px");
+		  	  
+	       $(this).parent("ul").stop("true","false")
+            .animate(
+                { 
+				    left:"-=100%" }, {
+                    duration: 300,
+                    easing: 'easeOutQuad',
+					complete: function(){
+					$("#menu_holder").height(holder_height_clean);
+					do_anything = false;
+					
+					}
+            });
+			
+		   }
+		
+	
+	     });
+	 }); 
+ 
+
+ 
+ 	$("#menu_holder .back").on("click", function() {
+		     
+			if (do_anything==false)
+		    {
+			 do_anything=true;	
+		 	 var hide_this = $(this).parent("ul");	
+			 $("#menu_holder").height("1000px");			
+			 $(this).parent().parent().parent("ul").stop("true","false")
+            .animate(
+                { 
+				    left:"+=100%" }, {
+                    duration: 300,
+                    easing: 'easeOutQuad',
+					complete: function(){
+						hide_this.hide();  
+						 
+						var holder_height = $(this).children("li:last").css("top").replace("px", "");
+		
+		                var holder_height_clean =  parseFloat(holder_height) + parseFloat(46)+"px";
+						
+						$("#menu_holder").height(holder_height_clean);
+						
+						do_anything = false;
+						
+						}
+                });
+				
+			}	
+	 
+	 }); 
+	 
+ 	 
+	 
+	 $("li").click(function(e) {
+        e.stopPropagation();
+     });
+	 
+	 
+	 
+} // end filter_mobile_menu
+	
+
+  $("#triggermenu").on("click", function() {
+	  	    
+		var has_height = $("#menu_holder").height(); 		
+		
+		if(has_height!=0)
+		{				
+			$("#triggermenu").addClass("collapsed");
+			$("#menu_holder").css({'height':0});			
+		}
+		
+		else
+		{
+			var heights = [];
+			$("#menu_holder ul").each(function(i) {
+				if($(this).is(":visible"))		
+				{
+					var holder_height = $(this).children("li:last").css("top").replace("px", "");		
+		            var holder_height_clean =  parseFloat(holder_height) + parseFloat(46);
+					
+					heights.push( holder_height_clean ); 
+					
+				}
+            });
+			
+			var set_holder_current_height =heights.pop();
+			 
+			$("#triggermenu").removeClass("collapsed");
+			$("#menu_holder").css({'height':set_holder_current_height});
+		}
+				
+	}); 
+
+
+   $("body,html").on("click", function(evt) {
+		$("#triggermenu").addClass("collapsed");
+		$("#menu_holder").css({'height':0});
+	}); 
+	 
+	 
+	$("#menu,#triggermenu").on("click", function(evt) {	
+	    evt.stopPropagation();
+	})
+	
+	
+	
+//mobile menu end
+
+    
+
+function set_min_height_load(){	
+	
+	if($('.preload_nivo').length>0)
+	{
+	  var set_menu_height = parseInt($('.left .col:first').height()+1);
+	}
+	
+	else
+	{
+		if($('.left .col:first').children('img').hasClass('wp-post-image'))
+		{
+			var set_menu_height = parseInt($('.left .col:first').height()-16);
+		}
+	}
+		
+	if(viewport().width>768)
+	{
+		
+	set_menu_height=parseInt($('.left .col:first').height()+1);
+	
+		$('.right .box:first').css('minHeight',set_menu_height);
+	}
+	else
+	{
+		$('.right .box:first').css('minHeight','auto');
+	}
+	
+	 
+}
+	
+function set_min_height_resize(){	
+	
+	if($('.nivoSlider').length>0)
+	{
+	  var set_menu_height = parseInt($('.left .col:first').height()+1);
+	}
+	
+	else
+	{
+		if($('.left .col:first').children('img').hasClass('wp-post-image'))
+		{
+			var set_menu_height = parseInt($('.left .col:first').height()-16);
+		}
+	}
+		
+	if(viewport().width>768)
+	{
+		
+	set_menu_height=parseInt($('.left .col:first').height()+1);
+	
+		$('.right .box:first').css('minHeight',set_menu_height);
+	}
+	else
+	{
+		$('.right .box:first').css('minHeight','auto');
+	}
+	
+	 
+}	
+
+ 
+
+function set_menu_height(){
+	 
+	if(viewport().width > 480 && viewport().width < 769  )
+	{
+		
+		
+		$('.box').each(function(){
+			if($(this).find('.half:not(".changed")').length < 2 && $(this).find('.half:not(".changed")').length > 0)
+			{
+				$(this).css('paddingTop','24.25%');
+			    $(this).find('.half').addClass('changed').css('height','100%');				
+			}
+		
+		});
+		
+		
+		
+		var side_mneu = $('.right .box:first');
+		
+		var side_mneu_height = parseInt(side_mneu.find('.side_menu').height());
+		
+		
+		var reference = $('.right .box:eq(1)');
+		reference.append("<div class='reference' style='position:absolute; left:0; right:0; top:0; width:100%; height:100%; display:none;'><div><div class='margin' style='position:absolute; left:0; right:0; top:0; width:100%; height:2%; display:none;'><div>");
+		var reference_height = parseInt($('.reference').height());				
+		var half = reference_height/2;
+		
+		var margin = parseInt($('.margin').height());	 
+		
+		if(side_mneu_height > reference_height)
+		{
+			side_mneu.css('minHeight',reference_height+half+margin);
+			$('.right .box:eq(2)').css('marginLeft','1%');
+			
+			if(side_mneu_height > reference_height+half)
+			{
+				side_mneu.css('minHeight',reference_height*2+margin*2);
+				$('.right .box:eq(2)').css('marginLeft','1%');
+			}
+		}
+		else
+		{
+			side_mneu.css('minHeight',reference_height);
+			$('.right .box:eq(2)').css({'marginLeft':'1%','float':'right','marginRight':0});
+			$('.right .box:eq(3)').css({'marginLeft':0,'float':'left','marginRight':0});
+			$('.right .box:eq(4)').css({'marginLeft':'1%','float':'right','marginRight':0});
+		}
+		
+		$('.right .changed').parent().css({'marginLeft':'1%','float':'right','marginRight':0});
+		
+	}
+	else
+	{
+		$('.box').each(function(){
+			if($(this).find('.changed').length > 0)
+			{
+				$(this).css('paddingTop','50%');
+			    $(this).find('.half').removeClass('changed').css('height','100%');			 
+			}
+		
+		});
+		
+		$('.right .box').not($('.right .box:eq(1)')).css({'marginLeft':0,'float':'left','marginRight':0});
+		$('.right .box:first').css('minHeight','auto');
+		
+	}
+}
+
+
+
+$(window).load(function() {
+
+set_min_height_load();
+
+}); 
+ // end load
+	
+	
+	$(window).resize(function(){     
+	    
+		set_min_height_resize();
+		set_menu_height();
+		      
+   		$(".width-value").text(viewport().width);	
+   
+   		$("#desk li").each(function(){
+   			if($(this).hasClass("open"))
+			{
+			var margins = parseInt($("#dynamic_container").css("margin-top"))+parseInt($("#dynamic_container").css("margin-bottom")); 
+		
+			var new_height = $("#dynamic_container").height()+margins;
+		
+			$("#topload").css({"height":new_height});
+			 
+			}
+	
+   			$(".gssb_c").css('display','none');
+
+	   	});	
+	 
+     }); 
+	 // end resize
+	 
+
+
+
+			
+$(".widget_next").each(function(){
+				 
+	$(this).on('click',function(event){
+					
+		var items =  $(this).parent().parent(".box_child").find(".widget_inner").length;
+					
+		if($(this).parent().parent(".box_child").find(".active_widget").index() < items)
+		{ 	
+					 	
+        	$(this).parent().parent(".box_child").find(".active_widget").fadeOut(function(){		
+					     	     
+				 $(this).removeClass("active_widget");
+				 $(this).next(".widget_inner").addClass("active_widget").show();
+			});
+		}
+		event.preventDefault(); 
+ 	});
+ });
+			 
+			 
+			 
+			 
+$(".widget_prev").each(function(){
+				 
+	 $(this).on('click',function(event){
+					 
+	if($(this).parent().parent(".box_child").find(".active_widget").index() > 1)
+		{ 	 
+					 
+		$(this).parent().parent(".box_child").find(".active_widget").fadeOut(function(){
+	    	$(this).removeClass("active_widget");
+			$(this).prev(".widget_inner").addClass("active_widget").show();
+		});
+		}
+		event.preventDefault(); 
+	 });
+	 
+ });
+
+	 
+
+
+//forms
+
+
+$('.gform_wrapper select').each(function() {
+	var label_frst_opt = $(this).find('option:first').text();
+	if(label_frst_opt == "")
+	{
+		$(this).find('option:first').remove();
+	}    
+});
+
+
+$('.gform_wrapper input[type="file"]').each(function() {
+	 $(this).parent().append('<input type="text" placeholder="Upload a file" readonly="readonly" class="file_text mandatory"><a class="browse" href="#"><span>Browse</span> </a>');
+	 
+});
+
+
+
+
+
+$('.gfield_checkbox li').each(function() {
+	var label_text = $(this).text();
+    $(this).find('label').html('<div class="check_button"></div>'+label_text);	
+});
+
+$('.gfield_radio li').each(function() {
+	var label_text = $(this).text();
+    $(this).find('label').html('<div class="redio_button"></div>'+label_text);	
+});
+
+	 
+$('.form_container .select,.gform_wrapper select:not([multiple])').selectbox({		     
+	         effect: "fade",
+			 onOpen: function () {				
+			// var toset = $(this).parent().find('.sbOptions li:first')
+			//toset.css('display', 'none');
+			},
+			 onClose: function () {			
+			  
+			}
+	   
+	 }); 
+    
+	
+	$('.reset').on('click',function(){
+		
+	   $(this).parentsUntil('.form_container').find('.field').removeClass('invalid');	  	
+		
+	   $('input').parentsUntil('form').prop("checked",false);
+	   
+	   $('.select option').each(function(){
+		    $(this).removeAttr('selected');
+	   }); 	   
+	   
+	   $('.sbSelector').text($('.select option:first').text());
+	   
+	   $('.validJs').remove();
+	}); 
+	
+	
+	
+	
+	
+	$("#change_captcha").on('click',function(){
+		$("#as_captcha").attr("src", "http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/captcha/captcha.php?"+(new Date()).getTime()); 
+	});
+	
+	
+	
+	
+	
+	$('.browse').parent().children('input[type=file]').change(function(){		
+		    var file = $(this).val();
+            var fileName = file.split("\\");
+           $(this).parent().find($('.file_text')).val(fileName[fileName.length-1]);
+	});
+	
+	
+	
+	
+	$('.browse').on('click',function(event){
+	   $(this).parent().children('input[type=file]').click();
+	   event.preventDefault();
+	});
+
+
+
+$('.testm').each(function(event){	 
+		$(this).mouseenter(function(){	
+		   $(this).parent().find('.tribe-events-tooltip').stop(true,true).fadeIn(50);	  			
+		});
+	
+		$(this).mouseleave(function(){	
+		       $('.tribe-events-tooltip').fadeOut(50);	
+		});		
+});
+	
+$('.set_point').each(function(){
+	
+	var limit_container =$(this).parent('.map_holder').width();
+	var limit_right = (limit_container-$(this).position().left)-24;
+	
+	
+	if(limit_right < 175)
+	{
+		 var targets = $(this).find('.tribe-events-tooltip');
+		 targets.css({'left':'auto','right':-limit_right-9});
+		 
+		 var arrow_set =  limit_right-15;
+		 if(arrow_set<-3)
+		 {
+			arrow_set=-3; 
+		 }
+		 
+		 targets.find('.tribe-events-arrow').css({'left':'auto','right':arrow_set});
+		
+	}
+	
+	
+});
+ 
+
+
+ 
+$(".team_member").on("click", function () {	
+	     var fresh_title = $(this).find("h3").text();
+		 var fresh_image = $(this).find("img").prop("src");
+		 var fresh_img_alt = $(this).find("img").prop("alt");
+		 var fresh_img_title = $(this).find("img").prop("title");
+		 var fresh_cont = $(this).find(".bio_content").html();
+		 
+		 var setmodal = '<div class="modal">'+
+  							'<div class="modal-header">'+
+    							'<button class="close"></button>'+
+    							'<h3>'+fresh_title+'</h3>'+
+  							'</div>'+
+  							'<div class="modal-body">'+
+    							'<div style="float:left; margin-right:10px;" class="circle">'+
+    								'<img width="160" title="'+fresh_img_alt+'" alt="'+fresh_img_alt+'" src="'+fresh_image+'">'+
+								'</div>'+					
+                    			fresh_cont +
+  						   '</div>'+
+                
+  						'<div class="modal-footer">GSMA</div>'+
+					'</div>'+
+					'<div class="modal-backdrop"></div>';		 
+		 $("body").append(setmodal);
+		 
+		 $(".modal-header .close").on("click", function () {	
+    		$("body").find(".modal").remove();
+			$("body").find(".modal-backdrop").remove();
+ 		 });
+		 
+	 }); 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+function validateSel(selector){
+$(".form_container").find(selector).each(function(){
+  if($(this).hasClass('mandatory'))	
+  {
+	if($(this).val()=="")
+	 {   
+	  $(this).closest('.field').addClass('invalid');	 	   
+	  $(this).parent().find('.validJs').remove();
+	  $(this).parent().append("<div class='validJs errorJs errorSelect'></div>");	
+	   var validForm = false;
+	 }
+	else
+	{	
+	  $(this).closest('.field').removeClass('invalid');	 
+	  $(this).parent().find('.validJs').remove();
+	  $(this).parent().append("<div class='validJs errorSelect'></div>");	
+	}		
+	
+	$(this).parent().find('.sbSelector').click(function(){	
+	     $(this).parent().parent().find('.validJs').fadeOut(500,function(){
+             $(this).parent().find('.validJs').remove();
+		 });	
+		
+     });	
+  }
+});	
+}
+
+function validateText(selector){		
+$(".form_container").find(selector).each(function(){	
+  
+  if($(this).hasClass('mandatory'))
+  {	
+	if($(this).val()=="")
+	 { 
+	   
+	   //
+	   //$(this).closest(".filed").css( "border", "1px solid red" );
+	   //
+	   // !!!  interesant, cu ghilimele duble NU MERGE selectoru  .closest()
+	   //
+	   
+	   $(this).closest('.field').addClass('invalid');	 
+	   $(this).parent().find('.validJs').remove();
+	   $(this).parent().append("<div class='validJs errorJs'></div>");	
+	   var validForm = false;
+	 }
+	else
+	{ 	 
+	  $(this).closest('.field').removeClass('invalid');	 
+	  $(this).parent().find('.validJs').remove();
+	  $(this).parent().append("<div class='validJs'></div>");	
+	}
+	
+	 $(this).focus(function(){	
+	     $(this).parent().find('.validJs').fadeOut(500,function(){
+             $(this).parent().find('.validJs').remove();
+		 });	
+		
+     });	
+  }
+});	
+}
+
+function validateEmail(selector){
+$(".form_container").find(selector).each(function(){	
+       if($(this).hasClass('mandatory'))
+	   {	
+	        if($(this).val()!="")
+	        {
+			
+               var pattern = new RegExp(/^[\w-]+(\.[\w-]+)*@([\w-]+\.)+[a-zA-Z]+$/);
+              
+			   if(pattern.test($(this).val())!=true)
+			   {
+				  $(this).closest('.field').addClass('invalid');	 
+	   			  $(this).parent().find('.validJs').remove();
+	   			  $(this).parent().append("<div class='validJs errorJs'></div>");	
+	  			  var validForm = false;	
+			   }
+			   else
+			   {			
+			      $(this).closest('.field').removeClass('invalid');	 
+			      $(this).parent().find('.validJs').remove();
+	  		      $(this).parent().append("<div class='validJs'></div>");
+			   }	
+			  		
+			}	
+			
+			$(this).focus(function(){	
+	     		$(this).parent().find('.validJs').fadeOut(500,function(){
+            	  $(this).parent().find('.validJs').remove();
+		 		});			
+     		});
+          }
+			
+	     });		
+}
+
+
+$("form").not(".contact_dev_form").submit(function(event){
+	var validForm = false;
+		
+	validateSel('.select');
+	validateText('.answer input[type=text],.answer textarea');
+	validateEmail('.email');
+	   
+	if(validForm==false) 
+	{
+	   //alert(error); 	
+	}
+	
+	if( $(".invalid").length<1)
+	{
+	   validForm  = true;		
+	}
+	 
+	return validForm;
+	
+
+	
+});
+ 
+
+	 
+search_post();	 
+search_keyword();
+paginateAjax();
+
+set_menu_height();
+f($('#filtered_content').children('.inner:first'));  
+ 
+
+
+// carousel logo start
+
+      var owl = $(".owl-carousel");
+	  owl.find('br').remove(); 	
+      owl.owlCarousel({
+
+      items : 4, //10 items above 1000px browser width
+      itemsDesktop : [1000,4], //5 items between 1000px and 901px
+      itemsDesktopSmall : [900,3], // 3 items betweem 900px and 601px
+      itemsTablet: [600,2], //2 items between 600 and 0;
+	  autoPlay : true,
+	  slideSpeed : 1000,
+	  paginationSpeed : 1000,
+      rewindSpeed : 2000,
+      itemsMobile : false, // itemsMobile disabled - inherit from itemsTablet option
+	  beforeInit: function(){
+		   $(".owl-carousel img").each(function(){		  
+		      var src =  $(this).prop('src');		   
+		      $(this).wrap("<div class='item' style='background:url("+src+") no-repeat center center;'></div>");
+		      $(this).remove(); 
+			   $(".owl-carousel").find('br').remove(); 		  		  
+	        }); 
+	 
+	      },
+	
+	  afterInit: function(){
+		     setInterval(function(){				 
+				 //owl.trigger('owl.next');				 
+			 },2000);
+				 
+	      }      	  
+		        
+     });
+
+
+
+    
+});
+
+</script>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+
+						
+						google.load('search', '1', {language : 'en'});
+						google.setOnLoadCallback(function() {
+						
+						var searching = false;
+							
+						var customSearchOptions = {};  
+						
+						
+						var customSearchControl = new google.search.CustomSearchControl(
+						'017448269525224100760:arelnj4tg14', customSearchOptions);
+						customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+						var options = new google.search.DrawOptions();
+						options.setSearchFormRoot('cse-search-form');
+						options.setAutoComplete(true);
+						customSearchControl.setAutoCompletionId('017448269525224100760:arelnj4tg14+qptype:1');
+						customSearchControl.draw('cse', options);
+						
+						
+						jQuery("input.gsc-input").addClass("searchinp").val("SEARCH").removeClass("gsc-input");
+						jQuery("input.searchinp").css('background','#F7F7F7');
+						jQuery("input.searchinp").css({'paddingTop': 16,'paddingRight': 0, 'paddingBottom':15, 'paddingLeft':20,'border':0 });
+						
+ 						jQuery(".gsc-search-button").addClass("searchinpsub inactive").val("").css({'marginLeft':0 }).prop('onClick','javascript:return false;');
+						jQuery(".gsc-clear-button").css('display','none');
+						jQuery(".gsc-branding").remove();
+												  
+	  					
+						jQuery(".searchinp").on("focus", function() { 
+							if(jQuery(this).val()=="SEARCH")
+							{
+								jQuery(this).val("");
+								jQuery(this).css('background','#F7F7F7');
+								jQuery(".gsc-completion-container tbody tr:last").css('display','none');	
+							}
+						});
+	
+						jQuery(".searchinp").on("blur", function() { 
+							if(jQuery(this).val()=="")
+							{
+								jQuery(this).val("SEARCH");
+								jQuery(this).css('background','#F7F7F7');
+								jQuery(".gssb_c").hide();
+								jQuery(".gsc-completion-container tbody tr:last").css('display','none');	
+							}
+						});
+						
+						
+						jQuery(".searchinp").on("keyup", function() { 
+							jQuery(".gsc-completion-container tbody tr:last").css('display','none');							
+						});
+						
+						jQuery(".searchinp").on("keydown", function() { 
+							jQuery(".gsc-completion-container tbody tr:last").css('display','none');							
+						});
+						
+						
+						jQuery(".searchinp").on("change", function() { 
+							jQuery(".gsc-completion-container tbody tr:last").css('display','none');							
+						});
+						
+											
+						
+						jQuery("input.searchinp").unwrap().unwrap();
+						jQuery(".gsc-search-button").unwrap().unwrap();						
+						jQuery(".gsc-search-box").unwrap();
+						
+					 
+						jQuery(".searchinp").appendTo(jQuery(".gsc-search-box"));
+						
+						
+						 
+						 jQuery(".gsc-search-button").on("click", function() { 
+						 	  jQuery(".searchinp").css('background','#F7F7F7');  
+						 });
+						 
+						 
+						 jQuery(".maskinp").on("click", function() { 
+	   						
+						   							
+							jQuery(".searchinp").css('background','#F7F7F7');  
+							
+							jQuery("#triggermenu").addClass("collapsed");
+							
+							jQuery("#menu_holder").css({'height':0});
+								
+							
+							 							 
+							if(jQuery(".searchinp").width() < 5)
+	   						{								    
+	   							jQuery("#triggermenu").stop().animate(
+                				{ marginLeft: 0+"px" }, {
+                    			duration: 'normal',
+                    			easing: 'easeOutQuad',
+								complete: function(){}
+                				}) 
+	   
+	   							jQuery(".searchinp").stop().animate(
+                				{ width: 85+"px",right: 36+"px" }, {
+                    			duration: 'normal',
+                   				easing: 'easeOutQuad',
+								complete: function(){jQuery(".searchinpsub").removeClass('inactive');  searching = true;jQuery(".maskinp").css('z-index',1);}
+                				}) 	
+								;	
+	   						}
+							
+							return false;
+							 							
+						});
+						 
+						 
+						jQuery(".gssb_c").hide();
+						 
+						
+						
+						customSearchControl.setSearchCompleteCallback(this,function(){
+							var search_close = jQuery(".gsc-clear-button");
+							search_close.insertAfter(jQuery(".gsc-result-info"));							
+							jQuery("div.gsc-clear-button").show().addClass("searchclose").text("Close Search Results");							
+                        });
+						 
+						
+						}, true);
+						
+ 			
+</script> 
+
+<script>
+var _prum = [['id', '56e7dd15abe53dbb1ea8bf65'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+
+
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v3.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - Membership" />
+<meta property="og:site_name" content="Membership" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found - Membership" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Membership &raquo; Feed" href="http://www.gsma.com/membership/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Membership &raquo; Comments Feed" href="http://www.gsma.com/membership/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.gsma.com\/membership\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='lbg_logoshowcase_site_grid_css-css'  href='http://www.gsma.com/membership/wp-content/plugins/lbg_logoshowcase/grid/css/logogridshowcase.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lbg_logoshowcase_site_carousel_css-css'  href='http://www.gsma.com/membership/wp-content/plugins/lbg_logoshowcase/carousel/css/logo_carousel.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lbg_logoshowcase_site_perspective_css-css'  href='http://www.gsma.com/membership/wp-content/plugins/lbg_logoshowcase/perspective/css/logo_perspective.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nivoslider-css'  href='http://www.gsma.com/membership/wp-content/plugins/nivo-slider/scripts/nivo-slider/nivo-slider.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='qa-css'  href='http://www.gsma.com/membership/wp-content/plugins/q-and-a/q-and-a.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.gsma.com/membership/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.gsma.com/membership/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-content/uploads/jw-player-plugin-for-wordpress/player/jwplayer.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-content/plugins/lbg_logoshowcase/carousel/js/jquery.ui.touch-punch.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-content/plugins/lbg_logoshowcase/grid/js/logogridshowcase.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-content/plugins/lbg_logoshowcase/carousel/js/logo_carousel.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-content/plugins/lbg_logoshowcase/perspective/js/logo_perspective.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='http://www.gsma.com/membership/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gsma.com/membership/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.gsma.com/membership/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><script src="http://www.gsma.com/membership/wp-content/themes/GSMAMembership2014/js/jquery.easing.min.js"></script>  
+</head>
+
+
+<body>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNXLRB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNXLRB');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<h1 class="width-value" style="position: absolute; left: 0px; top: 0px; color: rgb(55, 91, 127); display:none;"></h1>
+
+<div id="header">
+	<div id="topload">
+    	<div id="dynamic_nav">
+            <div class="close"></div>
+            
+            <ul id="dynamic_container">            	
+                <li class="parent"><a href="http://www.gsma.com/aboutus">About Us</a>
+        			<ul>
+            	 		<li><a href="http://www.gsma.com/aboutus/history">History</a></li>
+						<li><a href="http://www.gsma.com/aboutus/job-vacancies">Job Vacancies</a></li>
+						<li><a href="http://www.gsma.com/aboutus/links">Links</a></li>    
+            			<li><a href="http://maps.mobileworldlive.com/" target="_blank">Coverage Maps</a></li>
+            		</ul>    
+        		</li>     
+        
+        		<li class="parent"><a href="http://www.gsma.com/aboutus/leadership">Leadership</a>
+        			<ul>
+        		 		<li><a href="http://www.gsma.com/aboutus/leadership/chairman">Chairman</a></li>
+						<li><a href="http://www.gsma.com/aboutus/leadership/committees-and-groups">Committees and Groups</a></li>
+						<li><a href="http://www.gsma.com/aboutus/leadership/director-general">Director General</a></li>
+						<li><a href="http://www.gsma.com/aboutus/leadership/gsma-board">GSMA Board</a></li>
+						<li><a href="http://www.gsma.com/aboutus/leadership/gsma-organisation">GSMA Organisation</a></li>
+						<li><a href="http://www.gsma.com/aboutus/leadership/regional-interest-groups">Regional Interest Groups</a></li>   
+            		</ul>
+        		</li>    
+        
+        		<li class="parent"><a href="http://www.gsma.com/aboutus/worldwide-offices">Worldwide Offices</a>
+        			<ul>        		
+						<li><a href="http://www.gsma.com/aboutus/worldwide-offices#london">London, UK</a></li>
+                		<li><a href="http://www.gsma.com/aboutus/worldwide-offices#atlanta">Atlanta, USA</a></li>
+						<li><a href="http://www.gsma.com/aboutus/worldwide-offices#hongkong">Hong Kong, China</a></li>
+                		<li><a href="http://www.gsma.com/aboutus/worldwide-offices#shanghai">Shanghai, China</a></li>
+                		<li><a href="http://www.gsma.com/aboutus/worldwide-offices#barcelona">Barcelona, Spain</a></li>
+                		<li><a href="http://www.gsma.com/aboutus/worldwide-offices#brussels">Brussels, Belgium</a></li>							
+						<li><a href="http://www.gsma.com/aboutus/worldwide-offices#latam">Latin America</a></li>                            
+                		<li><a href="http://www.gsma.com/aboutus/worldwide-offices#nairobi">GSMA Nairobi</a></li>             
+            		</ul>           
+        		</li>
+            
+            </ul>        
+        </div>    
+    </div>
+    
+	<div class="bar"></div>
+    <div id="apender"></div>   
+    
+    <div class="header_content">    	
+      
+       <div id="logo">
+    		<a href="http://www.gsma.com/"><img src="http://www.gsma.com/common2013/gsma_header_footer/images/gsma_logo_2x.png" width="100" height="100" title="GSMA" alt="GSMA" /></a>
+        </div>
+    
+    	<div id="logo_mob">
+    		<a href="http://www.gsma.com/"><img src="http://www.gsma.com/common2013/gsma_header_footer/images/GSMA_logo_mobile_new.png" width="69" height="67" title="GSMA" alt="GSMA" /></a>
+    	</div>
+        
+        <ul id="desk">    
+    		<li><a rel="about_us_nav" title="About us">About us</a></li>
+        	<li><a rel="what_we_do_nav" title="What We Do">What We Do</a></li>
+        	<li><a rel="membership_nav" title="Membership">Membership</a></li>
+        	<li><a title="Newsroom" href="http://www.gsma.com/newsroom/" rel="newsroom_nav">Newsroom</a></li>
+    	</ul>
+        
+         <div class="rightstuff">
+        	<a class="linksmall" target="_blank" href="http://mwl.me/gsma_mwl">Mobile World Live</a>
+    		<a class="linksmall" target="_blank" href="http://gsmaintelligence.com/">GSMA Intelligence</a>
+        
+        	<div class="clear"></div>
+        	<div id="triggermenu" class="collapsed"><span>Menu</span></div>
+    		<div class="maskinp"></div>   
+        	<div id="cse-search-form"></div>      
+    	</div>
+        
+        
+<div class="relate">        
+<div id="menu_holder">    
+    <ul id="menu">
+ 		<li><a rel="about_us_nav" title="About us" href="http://www.gsma.com/aboutus">About us</a></li>
+        <li><a rel="what_we_do_nav" title="What We Do" href="#">What We Do</a></li>
+        <li><a rel="membership_nav" title="Membership" href="http://www.gsma.com/membership">Membership</a></li>
+        <li><a rel="newsroom_nav" title="Newsroom" href="http://www.gsma.com/newsroom/">Newsroom</a></li>
+    </ul>
+</div>
+</div>    
+<!--end relate-->
+
+      
+        
+    </div> <!--end header container-->
+</div> <!--end header -->
+ 
+
+<div id="pagewrap">
+	
+    <div class="clear"></div>
+     
+    <div id="cse"></div>
+<div class="content">
+    
+    	<div class="left">
+        	<div class="col">  </div>  
+            
+            
+      
+      		<div class="left_content"> 
+                <h2 style="color: #EE1721; padding:0;">404: Page Not Found</h2>
+                <p style="font-family: 'proxima_nova_condensedlight','Trebuchet MS',Arial,Helvetica,sans-serif;font-size: 22px; line-height:24px;margin-top: 10px;float:left;">The page you are looking for cannot be found.</br>Please try again using the main navigation above or the search box to the right.</p>
+ 
+  </div><!--end left content-->
+                        
+                  
+        </div><!--end left-->
+        
+        <div class="right">
+        	<div class="box">            	                   
+<div class="side_menu"><ul id="menu-main-right-nav" class="top_one"><li id="menu-item-8" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8"><a href="http://www.gsma.com/membership/">Membership</a>
+<ul class="sub-menu">
+	<li id="menu-item-5309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5309"><a href="http://www.gsma.com/membership/membership-benefits/">Membership Benefits</a></li>
+	<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-64"><a href="http://www.gsma.com/membership/who-are-our-gsma-members/">Our GSMA Members</a>
+	<ul class="sub-menu">
+		<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://www.gsma.com/membership/who-are-our-gsma-members/full-membership/">Full Members</a></li>
+		<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://www.gsma.com/membership/who-are-our-gsma-members/associate-membership/">Associate Members</a></li>
+		<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://www.gsma.com/membership/who-are-our-gsma-members/rapporteur-membership/">Rapporteur Members</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5312"><a href="http://www.gsma.com/membership/become-a-gsma-member/">Become A GSMA Member</a></li>
+	<li id="menu-item-8513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8513"><a href="http://www.gsma.com/membership/membership-fees/">Membership Fees</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-60"><a href="http://www.gsma.com/membership/members-resources/">Member Resources</a>
+	<ul class="sub-menu">
+		<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://www.gsma.com/membership/members-press-releases/">Member Press Releases</a></li>
+		<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://www.gsma.com/membership/members-resources/members-white-papers/">Member White Papers</a></li>
+	</ul>
+</li>
+	<li id="menu-item-681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-681"><a href="http://www.gsma.com/membership/infocentre/">InfoCentre²</a></li>
+	<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://www.gsma.com/membership/faqs/">FAQ&#8217;s</a></li>
+	<li id="menu-item-5333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5333"><a href="http://www.gsma.com/membership/contact/">Contact</a></li>
+</ul>
+</li>
+</ul></div>            </div>
+            
+             			           
+                                    
+                        
+                    
+        </div>
+                
+	
+</div> 
+
+<div class="clear"></div>
+<div id="footer" class="footer">
+	 <h2 class="white">What We Do</h2>
+	 <ul class="bottom_nav">
+        
+                     <li class="parent"><a href="/spectrum/">Spectrum for Mobile Broadband</a>  
+                     <ul>
+                    	<li><a href="http://www.gsma.com/spectrum/spectrum4all/ ">Spectrum4all</a></li>
+                    </ul>
+                                        
+                        <ul>  
+                        	<li class="parent"><a href="/publicpolicy/">Public Policy</a></li>
+                            
+                            <li><a href="http://mph.gsma.com/publicpolicy/handbook">Mobile Policy Handbook</a></li>
+                            
+                            <li><a href="http://mph.gsma.com/publicpolicy/case-studies">Policy Case Studies</a></li>
+                            
+                            <li><a href="/publicpolicy/capacitybuilding">Capacity Building in Mobile Sector Regulation</a></li>
+                                                 
+                            <li><a href="/publicpolicy/mobile-and-privacy">Mobile and Privacy</a></li>
+
+                            <li><a href="/publicpolicy/myouth">mYouth</a></li>
+
+                            <li><a href="/publicpolicy/mobile-energy-efficiency">Mobile Energy Efficiency</a></li>
+
+                            <li><a href="/publicpolicy/tax">Tax</a></li>                           
+
+                            <li><a href="/publicpolicy/roaming-overview">Roaming</a></li>
+
+                            <li><a href="/publicpolicy/mobile-and-health">Mobile and Health</a></li>
+
+                            <li><a href="/publicpolicy/government-programme">Government Programme</a></li>
+
+                            <li><a href="/publicpolicy/mobile-and-the-environment">Mobile and Environment</a></li>
+                                                       
+                        </ul>
+					</li>
+                    
+                    <li class="parent"><a href="/personaldata/">Personal Data</a> 
+                    <ul>
+                    <li><a href="/personaldata/mobile-connect">Mobile Connect</a></li>
+                    </ul>
+                        <ul>	
+                        	<li class="parent"><a href="/mobilefordevelopment/">Mobile for Development</a></li>
+                        						
+							
+                            
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/connected-society">Connected Society</a></li>
+
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/mobile-money">Mobile Money</a></li>
+
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/digital-identity">Digital Identity</a></li>
+                            
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/connected-women">Connected Women</a></li>
+                            
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/m4dutilities">Mobile for Development Utilities</a></li>      
+
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/magri">mAgri</a></li>
+
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/mhealth">mHealth</a></li>
+                            
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/disaster-response">Disaster Response</a></li>
+                            
+                            <li><a href="http://www.gsma.com/mobilefordevelopment/programmes/ecosystem-accelerator">Ecosystem Accelerator</a></li>
+                            
+                            
+                            
+                            
+                            <li class="parent"><a target="_blank" href="http://gsmamobileeconomy.com/">Mobile Economy</a></li>                         
+                        </ul>
+                     </li> 
+                      
+                     <li class="parent"><a href="/digitalcommerce/">Digital Commerce</a>
+                     	<ul>
+                            <li><a href="/digitalcommerce/mobilepayment">Payment</a></li>
+                            
+                            <li><a href="/digitalcommerce/digital-commerce-in-retail">Retail</a></li>
+                            
+                            <li><a href="/digitalcommerce/digital-commerce-in-transport">Transport</a></li>
+                     	</ul>
+                        <ul>
+                    
+                     		<li class="parent"><a href="/network2020/">Network 2020</a>
+                            
+                            <li><a href="http://www.gsma.com/network2020/technology/rcs/">RCS</a></li>
+                                                
+                            <li><a href="http://www.gsma.com/network2020/technology/volte/">VoLTE</a></li>
+                            
+                            <li><a href="http://www.gsma.com/network2020/technology/interconnection/">Interconnection</a></li>
+                            
+                            <li><a href="http://www.gsma.com/network2020/resources/all-ip-business-guide-2/">All-IP Business Guide</a></li>
+                             
+                     
+                     		<li class="parent"><a href="/managedservices/">Managed Services</a>                      
+                     	
+                            <li><a href="/managedservices/number-portability-services/">Number Portability Services</a></li>
+
+                            <li><a href="/managedservices/spam-management-prevention/">Spam Management & Prevention</a></li>
+
+                            <li><a href="/managedservices/device-blacklist-services/">Device Blacklist Services</a></li>
+                            
+                            <li><a href="/managedservices/device-model-characteristics/">Device Model Characteristics</a></li>       
+                            
+                            <li><a href="/managedservices/mobile-equipment-identity/">Mobile Equipment Identity</a></li>          
+                        </ul>
+                    </li>
+                        
+					 <li class="parent"><a href="/connectedliving/">Connected Living</a>  
+                        <ul>
+                            <li><a href="/connectedliving/automotive">Automotive</a></li>
+							
+                            <li><a href="/connectedliving/health/">Health</a></li>
+                            
+                            <li><a href="/connectedliving/transport">Transport</a></li>
+                            
+             				<li><a href="/connectedliving/utilities">Utilities</a></li> 
+
+                                                    
+                           <li><a href="/connectedliving/tracker">Connected Living Tracker</a></li>	
+                           
+                           
+                             
+                     
+                     		<li class="parent"><a href="/events/ ">Events &amp; Awards</a></a>  
+                         
+                            <li><a href="http://www.gsma.com/events/mobile-world-congress">Mobile World Congress</a></li>
+                            
+                            <li><a href="http://www.gsma.com/events/mobile-world-congress-shanghai">Mobile World Congress Shanghai</a></li>
+							
+                            <li><a href="http://www.gsma.com/events/global-mobile-awards">Global Mobile Awards</a></li>
+                                                       
+                            <li><a href="http://www.asiamobileawards.com">Asia Mobile Awards</a></li>
+                            
+                            <li><a href="http://www.gsma.com/events/mobile-360-series">Mobile 360 Series</a></li>
+							
+                            <li><a href="http://www.gsma.com/events/check-in-to-the-connected-future-at-the-gsma-innovation-city">Innovation City</a></li>
+                            
+                            
+                            <li class="parent"><a target="_blank" href="http://smarterappsguidelines.gsma.com/">Smarter Apps Guidelines</a></li>
+                            
+                            <li class="parent"><a href="http://www.gsma.com/newsroom/gsmadocuments/">GSMA Documents</a></li> 
+                            
+						</ul>
+                     </li>
+     </ul>
+</div>
+
+    
+    <div class="bottom">
+	
+		<span>
+            <a  href="http://www.gsma.com/aboutus/worldwide-offices">Contact GSMA</a>
+            <a  href="http://www.gsma.com/aboutus/legal">Legal</a>
+            <a target="_blank" href="http://www.gsma.com/aboutus/legal/email-preference-centre">Email Preference Centre</a>
+       
+			<a class="copy" hrref="">Copyright © 2016 GSMA. GSM and the GSM Logo are registered and owned by the GSMA.</a>
+		</span>
+	
+	</div> 
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style social">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=mobileworldlive"></script>
+<!-- AddThis Button END -->
+
+</div>
+
+
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-content/plugins/q-and-a/js/qa.js'></script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201615'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Apraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.gsma.com/membership/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201615.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.6',blog:'49666973',post:'0',tz:'1',srv:'www.gsma.com'} ]);
+	_stq.push([ 'clickTrackerInit', '49666973', '0' ]);
+</script>
+<!-- Begin Eloqua code -->
+<script type="text/javascript">
+	var _elqQ = _elqQ || [];
+	_elqQ.push(['elqSetSiteId', '667']);
+	_elqQ.push(['elqTrackPageView']);
+	
+	(function () {
+	function async_load() {
+	var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+	s.src = '//img.en25.com/i/elqCfg.min.js';
+	var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+	}
+	if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false); 
+	else if (window.attachEvent) window.attachEvent('onload', async_load);
+	})();
+</script>
+
+<!-- End Eloqua code -->
+
+
+<!-- Start clicky code-->
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(66529360);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript>
+    <p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66529360ns.gif" /></p>
+</noscript>
+<!-- End Clicky code -->
+</body>
+</html>

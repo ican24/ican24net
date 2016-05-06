@@ -1,0 +1,40 @@
+a:10:{s:4:"name";s:13:"United States";s:4:"desc";s:137:"The country has 276.6 million subscribers in total, or a 89.0% penetration rate. [108] (June 2009)
+The country's telcom regulator is FCC.";s:3:"map";i:1054;s:4:"iso2";s:2:"US";s:4:"iso3";s:3:"USA";s:5:"phone";s:2:"1�";s:10:"population";s:16:"307,212,123 (4)�";s:4:"area";s:14:"9,826,675 (9)�";s:3:"gdp";s:20:"14.26 Trillion (2)�
+";s:9:"operators";a:19:{i:0;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:35:"Verizon Wireless
+•Includes Alltel";s:10:"Technology";s:66:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A
+GSM, GPRS
+LTE (Planned)";s:11:"Subscribers";s:26:"91.2 [109] (December 2009)";s:9:"Ownership";s:54:"Verizon Communications (55%), Vodafone Group plc (45%)";}i:1;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:128:"AT&amp;T Mobility
+•Includes Centennial Communications and its subsidiaries
+(Centennial Wireless and Centennial de Puerto Rico)";s:10:"Technology";s:64:"GSM, GPRS, EDGE
+UMTS, HSDPA, HSUPA, HSPA (Planned)
+LTE (Planned)";s:11:"Subscribers";s:27:"85.11 [110] (December 2009)";s:9:"Ownership";s:8:"AT&amp;T";}i:2;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:119:"Sprint Nextel
+•Includes Sprint Network, Nextel Network, and Boost Mobile Prepaid,
+Virgin Mobile USA, Helio, and iPCS.";s:10:"Technology";s:84:"Sprint Network
+CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A
+Nextel Network
+iDEN, WiDEN";s:11:"Subscribers";s:27:"48.11 [111] (December 2009)";s:9:"Ownership";s:25:"Sprint Nextel Corporation";}i:3;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:8:"T-Mobile";s:10:"Technology";s:61:"UMA
+GSM, GPRS, EDGE
+UMTS, HSDPA, HSUPA, HSPA, HSPA+ (Planned)";s:11:"Subscribers";s:30:"33.4201 [112] (September 2009)";s:9:"Ownership";s:16:"Deutsche Telekom";}i:4;a:5:{s:3:"num";s:1:"5";s:8:"Operator";s:69:"TracFone Wireless
+•Includes NET10, Straight Talk, SafeLink Wireless";s:10:"Technology";s:32:"CdmaOne
+CDMA2000 1xRTT
+GSM, GPRS";s:11:"Subscribers";s:29:"14.4271 [113] (December 2009)";s:9:"Ownership";s:23:"América Móvil (98.2%)";}i:5;a:5:{s:3:"num";s:1:"6";s:8:"Operator";s:8:"MetroPCS";s:10:"Technology";s:49:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0
+LTE (Planned)";s:11:"Subscribers";s:27:"6.640 [114] (December 2009)";s:9:"Ownership";s:14:"MetroPCS, Inc.";}i:6;a:5:{s:3:"num";s:1:"7";s:8:"Operator";s:13:"U.S. Cellular";s:10:"Technology";s:42:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A";s:11:"Subscribers";s:28:"6.131 [115] (September 2009)";s:9:"Ownership";s:32:"Telephone and Data Systems (82%)";}i:7;a:5:{s:3:"num";s:1:"8";s:8:"Operator";s:31:"Cricket
+•Includes Jump Mobile";s:10:"Technology";s:42:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A";s:11:"Subscribers";s:28:"4.656 [116] (September 2009)";s:9:"Ownership";s:13:"Leap Wireless";}i:8;a:5:{s:3:"num";s:1:"9";s:8:"Operator";s:14:"Cellular South";s:10:"Technology";s:56:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A
+LTE (Planned)";s:11:"Subscribers";s:26:"0.800 [117] (January 2010)";s:9:"Ownership";s:14:"Cellular South";}i:9;a:5:{s:3:"num";s:2:"10";s:8:"Operator";s:14:"Qwest Wireless";s:10:"Technology";s:42:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A";s:11:"Subscribers";s:28:"0.786 [118] (September 2009)";s:9:"Ownership";s:20:"Qwest Communications";}i:10;a:5:{s:3:"num";s:2:"11";s:8:"Operator";s:9:"Clearwire";s:10:"Technology";s:5:"WiMAX";s:11:"Subscribers";s:29:"0.5551 [119] (September 2009)";s:9:"Ownership";s:31:"Sprint Nextel Corporation (51%)";}i:11;a:5:{s:3:"num";s:2:"12";s:8:"Operator";s:24:"Cincinnati Bell Wireless";s:10:"Technology";s:15:"GSM, GPRS, EDGE";s:11:"Subscribers";s:29:"0.5363 [120] (September 2009)";s:9:"Ownership";s:28:"Cincinnati Bell, Inc. (100%)";}i:12;a:5:{s:3:"num";s:2:"13";s:8:"Operator";s:24:"nTelos
+•Includes Frawg";s:10:"Technology";s:42:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A";s:11:"Subscribers";s:29:"0.4383 [121] (September 2009)";s:9:"Ownership";s:21:"nTelos Holdings Corp.";}i:13;a:5:{s:3:"num";s:2:"14";s:8:"Operator";s:6:"Pocket";s:10:"Technology";s:35:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0";s:11:"Subscribers";s:24:"0.300 [122] (April 2009)";s:9:"Ownership";s:21:"Pocket Communications";}i:14;a:5:{s:3:"num";s:2:"15";s:8:"Operator";s:12:"SouthernLINC";s:10:"Technology";s:11:"iDEN, WiDEN";s:11:"Subscribers";s:24:"0.275 [123] (April 2008)";s:9:"Ownership";s:16:"Southern Company";}i:15;a:5:{s:3:"num";s:2:"16";s:8:"Operator";s:15:"Movida Wireless";s:10:"Technology";s:7:"CdmaOne";s:11:"Subscribers";s:24:"0.217 [124] (March 2008)";s:9:"Ownership";s:27:"Movida Communications, Inc.";}i:16;a:5:{s:3:"num";s:2:"17";s:8:"Operator";s:29:"Alaska Communications Systems";s:10:"Technology";s:35:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0";s:11:"Subscribers";s:29:"0.1397 [125] (September 2009)";s:9:"Ownership";s:29:"Alaska Communications Systems";}i:17;a:5:{s:3:"num";s:2:"19";s:8:"Operator";s:18:"Bluegrass Cellular";s:10:"Technology";s:42:"CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A";s:11:"Subscribers";s:22:"0.130 [126] (May 2005)";s:9:"Ownership";s:24:"Bluegrass Cellular, Inc,";}i:18;a:5:{s:3:"num";s:2:"20";s:8:"Operator";s:64:"GCI Wireless
+•Includes GCI Network, and Alaska DigiTel Network";s:10:"Technology";s:93:"GCI Network
+GSM, GPRS, EDGE
+Alaska DigiTel Network
+CdmaOne
+CDMA2000 1xRTT, EV-DO Rev 0, Rev A";s:11:"Subscribers";s:29:"0.1205 [127] (September 2009)";s:9:"Ownership";s:21:"General Communication";}}}

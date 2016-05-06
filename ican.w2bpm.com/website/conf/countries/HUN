@@ -1,0 +1,11 @@
+a:10:{s:4:"name";s:7:"Hungary";s:4:"desc";s:161:"Hungary has 11 687 331 subscribers in total, or a 117.7% penetration rate. [61] (December 2009)
+The Regulatory Authority for telecommunication in Hungary is NHH.";s:3:"map";i:910;s:4:"iso2";s:2:"HU";s:4:"iso3";s:3:"HUN";s:5:"phone";s:3:"36 ";s:10:"population";s:15:"9,905,596 (83) ";s:4:"area";s:13:"93,028 (116) ";s:3:"gdp";s:20:"196.6 Billion (53) 
+";s:9:"operators";a:4:{i:0;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:38:"T-Mobile
+(Formerly Westel, Westel 900)";s:10:"Technology";s:34:"GSM, GPRS, EDGE
+UMTS, HSDPA, HSUPA";s:11:"Subscribers";s:19:"â–¼ 43.41% (-0,54%)";s:9:"Ownership";s:47:"Magyar Telekom
+(Subsidiary of Deutsche Telecom)";}i:1;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:28:"Pannon
+(Formerly Pannon GSM)";s:10:"Technology";s:27:"GSM, GPRS, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:19:"â–² 34.52% (+0,34%)";s:9:"Ownership";s:14:"Telenor (100%)";}i:2;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:8:"Vodafone";s:10:"Technology";s:28:"GSM, GPRS
+UMTS, HSDPA, HSUPA";s:11:"Subscribers";s:18:"â–² 22.07% (+0.2%)";s:9:"Ownership";s:15:"Vodafone (100%)";}i:3;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:24:"Postafon
+(uses Vodafone)";s:10:"Technology";s:27:"GSM, GPRS, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:16:"Not Yet avaiable";s:9:"Ownership";s:12:"Magyar Posta";}}}

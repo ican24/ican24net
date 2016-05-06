@@ -1,0 +1,23 @@
+a:10:{s:4:"name";s:5:"Italy";s:4:"desc";s:132:"Italy has 89.43 million subscribers in total, or a 153.7% penetration rate [70] (Jun 2009).
+The country's telcom regulator is AGCOM.";s:3:"map";i:920;s:4:"iso2";s:2:"IT";s:4:"iso3";s:3:"ITA";s:5:"phone";s:3:"39†";s:10:"population";s:16:"58,126,212 (24)†";s:4:"area";s:13:"301,340 (78)†";s:3:"gdp";s:21:"1.823 Trillion (11)†
+";s:9:"operators";a:22:{i:0;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:3:"TIM";s:10:"Technology";s:27:"GSM, GPRS, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:19:"32.6 [71] (2Q 2009)";s:9:"Ownership";s:14:"Telecom Italia";}i:1;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:27:"Vodafone
+(Formerly Omnitel)";s:10:"Technology";s:21:"GSM, GPRS
+UMTS, HSDPA";s:11:"Subscribers";s:20:"29.40 [72] (2Q 2009)";s:9:"Ownership";s:35:"Vodafone (76.86%), Verizon (23.14%)";}i:2;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:4:"Wind";s:10:"Technology";s:27:"GSM, GPRS, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:20:"17.50 [73] (4Q 2008)";s:9:"Ownership";s:15:"Orascom Telecom";}i:3;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:1:"3";s:10:"Technology";s:11:"UMTS, HSDPA";s:11:"Subscribers";s:19:"8.93 [74] (2Q 2009)";s:9:"Ownership";s:17:"Hutchison Whampoa";}i:4;a:5:{s:3:"num";s:1:"5";s:8:"Operator";s:20:"CoopVoce (using TIM)";s:10:"Technology";s:27:"GSM, GPRS, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:27:"137,140 (December 2007)[75]";s:9:"Ownership";s:12:"Coop (Italy)";}i:5;a:5:{s:3:"num";s:1:"6";s:8:"Operator";s:37:"Carrefour UNO Mobile (using Vodafone)";s:10:"Technology";s:9:"GSM, UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:9:"Carrefour";}i:6;a:5:{s:3:"num";s:1:"7";s:8:"Operator";s:28:"PosteMobile (using Vodafone)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:15:"1.0 (July 2009)";s:9:"Ownership";s:14:"Poste Italiane";}i:7;a:5:{s:3:"num";s:1:"8";s:8:"Operator";s:30:"Daily Telecom (using Vodafone)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:13:"Daily Telecom";}i:8;a:5:{s:3:"num";s:1:"9";s:8:"Operator";s:21:"A-mobile (using Wind)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:6:"Auchan";}i:9;a:5:{s:3:"num";s:2:"10";s:8:"Operator";s:28:"Conad INSIM (using Vodafone)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:5:"Conad";}i:10;a:5:{s:3:"num";s:2:"11";s:8:"Operator";s:22:"MTV Mobile (using Tim)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:14:"Telecom Italia";}i:11;a:5:{s:3:"num";s:2:"12";s:8:"Operator";s:24:"Fastweb Mobile (using 3)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:14:"Swisscom (82%)";}i:12;a:5:{s:3:"num";s:2:"13";s:8:"Operator";s:28:"Telepass Mobile (using Wind)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:23:"Autostrade per l'Italia";}i:13;a:5:{s:3:"num";s:2:"14";s:8:"Operator";s:26:"BT Mobile (using Vodafone)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:9:"BT Italia";}i:14;a:5:{s:3:"num";s:2:"15";s:8:"Operator";s:24:"Digitel Italia (using 3)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:14:"Digitel Italia";}i:15;a:5:{s:3:"num";s:2:"16";s:8:"Operator";s:24:"50&amp;Pi√πNet (using 3)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:19:"50&amp;Pi√π Fenacom";}i:16;a:5:{s:3:"num";s:2:"17";s:8:"Operator";s:21:"Smart Pinoy (using 3)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:4:"PLDT";}i:17;a:5:{s:3:"num";s:2:"18";s:8:"Operator";s:26:"Tiscali Mobile (using TIM)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:7:"Tiscali";}i:18;a:5:{s:3:"num";s:2:"19";s:8:"Operator";s:20:"N√≤verca (using TIM)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:12:"Acotel Group";}i:19;a:5:{s:3:"num";s:2:"20";s:8:"Operator";s:27:"ERG Mobile (using Vodafone)";s:10:"Technology";s:15:"GMS, GPRS, EDGE";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:3:"ERG";}i:20;a:5:{s:3:"num";s:2:"21";s:8:"Operator";s:16:"life:) (using 3)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:7:"Astelit";}i:21;a:5:{s:3:"num";s:2:"22";s:8:"Operator";s:20:"EnelMia (using Wind)";s:10:"Technology";s:8:"GSM
+UMTS";s:11:"Subscribers";s:17:"Not Yet Available";s:9:"Ownership";s:4:"Enel";}}}

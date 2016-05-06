@@ -1,0 +1,42 @@
+a:10:{s:4:"name";s:8:"Malaysia";s:4:"desc";s:231:"Malaysia has 29.623 million subscribers in total, or a 104.1% penetration rate. "Cellular Phone Subscribers". MCMC. http://www.skmm.gov.my/facts_figures/stats/ViewStatistic.asp?cc=87853647&amp;srid=9247989.&#160; (3rd Quarter 2009)";s:3:"map";i:949;s:4:"iso2";s:2:"MY";s:4:"iso3";s:3:"MYS";s:5:"phone";s:3:"60�";s:10:"population";s:16:"25,715,819 (47)�";s:4:"area";s:13:"329,847 (73)�";s:3:"gdp";s:20:"384.3 Billion (31)�
+";s:9:"operators";a:14:{i:0;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:12:"Maxis 明讯";s:10:"Technology";s:22:"012/017
+014
+015 (VoIP)";s:11:"Subscribers";s:41:"GSM, GPRS, EDGE
+UMTS, HSPA
+HSPA+(Planned)";s:9:"Ownership";s:117:"11.735 [103]
+(September 2009)
+-Public(30%)
+-Maxis Communications(70%)
+*Ananda Krishnan-75%
+*Saudi Telecom Company-25%";}i:1;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:16:"Celcom 天地通";s:10:"Technology";s:11:"013/019
+014";s:11:"Subscribers";s:27:"GSM, GPRS, EDGE
+UMTS, HSDPA";s:9:"Ownership";s:47:"10.142[104](September 2009)
+Axiata Group Berhad";}i:2;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:17:"DiGi 数码网络";s:10:"Technology";s:11:"016
+010/014";s:11:"Subscribers";s:26:"GSM, GPRS, EDGE
+UMTS, HSPA";s:9:"Ownership";s:41:"7.720 [105] (December 2009)
+Telenor (49%)";}i:3;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:8:"U Mobile";s:10:"Technology";s:3:"018";s:11:"Subscribers";s:56:"UMTS, HSDPA
+(uses Celcom GSM when UMTS is not available)";s:9:"Ownership";s:106:"0.3 (June 2009)
+-U Telecom (formerly known as MiTV Corporation Sdn Bhd)[106]
+'majority own by Vincent Tan'";}i:4;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:25:"TuneTalk
+(uses Celcom 2G)";s:10:"Technology";s:3:"010";s:11:"Subscribers";s:25:"GSM,GPRS(soon),EDGE(soon)";s:9:"Ownership";s:51:"0.4(December 2009)
+Tune Ventures(35.7%)
+Celcom(38%)";}i:5;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:21:"XOX COM
+(uses Celcom)";s:10:"Technology";s:3:"010";s:11:"Subscribers";s:25:"GSM,GPRS, EDGE
+UMTS,HSDPA";s:9:"Ownership";s:30:"0.1(October 2009)[107]
+XOX COM";}i:6;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:22:"Happy[108]
+(uses DiGi)";s:10:"Technology";s:3:"016";s:11:"Subscribers";s:13:"GSM,GPRS,EDGE";s:9:"Ownership";s:5:"
+DiGi";}i:7;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:29:"Merchantrade
+(uses Celcom 2G)";s:10:"Technology";s:3:"013";s:11:"Subscribers";s:14:"GSM,GPRS, EDGE";s:9:"Ownership";s:31:"
+Merchantrade Asia Sdn Bhd[109]";}i:8;a:5:{s:3:"num";s:1:"5";s:8:"Operator";s:49:"Redtone Mobile 立通移动[110]
+(uses Celcom 2G)";s:10:"Technology";s:3:"013";s:11:"Subscribers";s:14:"GSM,GPRS, EDGE";s:9:"Ownership";s:27:"
+Redtone International[111]";}i:9;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:34:"B &amp; E Wireless Mobile[112](WM)";s:10:"Technology";s:3:"015";s:11:"Subscribers";s:20:"GSM, GPRS, EDGE
+HSPA";s:9:"Ownership";s:36:"Some Corporate Users
+B&amp;E WM[113]";}i:10;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:2:"P1";s:10:"Technology";s:9:"015(VoIP)";s:11:"Subscribers";s:30:"IEEE 802.16e-2005
+WiMAX 2.3Ghz";s:9:"Ownership";s:30:"0.1(October 2009)
+Green Packet";}i:11;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:23:"YTL Communications[114]";s:10:"Technology";s:0:"";s:11:"Subscribers";s:30:"IEEE 802.16e-2005
+WiMAX 2.3Ghz";s:9:"Ownership";s:27:"not yet available
+YTL Power";}i:12;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:12:"Redtone[115]";s:10:"Technology";s:0:"";s:11:"Subscribers";s:30:"IEEE 802.16e-2005
+WiMAX 2.3Ghz";s:9:"Ownership";s:27:"
+Redtone international[116]";}i:13;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:9:"Amax[117]";s:10:"Technology";s:0:"";s:11:"Subscribers";s:30:"IEEE 802.16e-2005
+WiMAX 2.3Ghz";s:9:"Ownership";s:15:"
+Asiaspace[118]";}}}

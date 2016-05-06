@@ -1,0 +1,28 @@
+a:10:{s:4:"name";s:7:"Belgium";s:4:"desc";s:227:"Belgium has 12.200 million subscribers in total, or a 113.9% penetration rate [13] (Q2 2009).
+The Regulatory Authority for telecommunication in Belgium is the Belgian Institute for Postal services and Telecommunications (BIPT).";s:3:"map";i:827;s:4:"iso2";s:2:"BE";s:4:"iso3";s:3:"BEL";s:5:"phone";s:3:"32†";s:10:"population";s:16:"10,414,336 (79)†";s:4:"area";s:13:"30,528 (147)†";s:3:"gdp";s:20:"389.3 Billion (30)†
+";s:9:"operators";a:26:{i:0;a:5:{s:3:"num";s:1:"1";s:8:"Operator";s:8:"Proximus";s:10:"Technology";s:21:"GSM, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:27:"4.82 (40.5%) [14] (Q3 2008)";s:9:"Ownership";s:8:"Belgacom";}i:1;a:5:{s:3:"num";s:1:"2";s:8:"Operator";s:8:"Mobistar";s:10:"Technology";s:21:"GSM, EDGE
+UMTS, HSDPA";s:11:"Subscribers";s:27:"3.86 (30.9%) [15] (Q1 2009)";s:9:"Ownership";s:22:"France T√©l√©com (54%)";}i:2;a:5:{s:3:"num";s:1:"3";s:8:"Operator";s:4:"BASE";s:10:"Technology";s:20:"GSM, EDGE
+UMTS HSDPA";s:11:"Subscribers";s:27:"3.49 (28.6%) [16] (Q1 2009)";s:9:"Ownership";s:3:"KPN";}i:3;a:5:{s:3:"num";s:1:"4";s:8:"Operator";s:7:"planned";s:10:"Technology";s:9:"GSM, UMTS";s:11:"Subscribers";s:27:"0.00 [17] (planned in 2010)";s:9:"Ownership";s:23:"to be announced in 2009";}i:4;a:5:{s:3:"num";s:1:"5";s:8:"Operator";s:31:"Telenet Mobile
+(using Mobistar)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:20:"0.087 (Dec 2008)[18]";s:9:"Ownership";s:14:"Liberty Global";}i:5;a:5:{s:3:"num";s:1:"6";s:8:"Operator";s:27:"LycaMobile
+(using Mobistar)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:7:"LycaTel";}i:6;a:5:{s:3:"num";s:1:"7";s:8:"Operator";s:25:"Primus Mobile
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:17:"Go4It Media Group";}i:7;a:5:{s:3:"num";s:1:"8";s:8:"Operator";s:20:"1 Mobile
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:9:"Carrefour";}i:8;a:5:{s:3:"num";s:1:"9";s:8:"Operator";s:30:"Sud Presse Mobile
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:10:"Sud Presse";}i:9;a:5:{s:3:"num";s:2:"10";s:8:"Operator";s:25:"TELE2 Mobile
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"KPN";}i:10;a:5:{s:3:"num";s:2:"11";s:8:"Operator";s:25:"EDPnet Mobile
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:6:"EDPnet";}i:11;a:5:{s:3:"num";s:2:"12";s:8:"Operator";s:22:"Aldi Talk
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:4:"Aldi";}i:12;a:5:{s:3:"num";s:2:"13";s:8:"Operator";s:24:"MyTel Mobile
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:5:"MyTel";}i:13;a:5:{s:3:"num";s:2:"14";s:8:"Operator";s:18:"Simyo
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"KPN";}i:14;a:5:{s:3:"num";s:2:"15";s:8:"Operator";s:18:"Zoniq
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"KPN";}i:15;a:5:{s:3:"num";s:2:"16";s:8:"Operator";s:28:"Transatel Mobile
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:16;a:5:{s:3:"num";s:2:"17";s:8:"Operator";s:21:"HappyMany
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:17;a:5:{s:3:"num";s:2:"18";s:8:"Operator";s:20:"BeMobile
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:18;a:5:{s:3:"num";s:2:"19";s:8:"Operator";s:26:"Toledo Telecom
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:19;a:5:{s:3:"num";s:2:"20";s:8:"Operator";s:31:"Scarlet Mobile
+(using Proximus)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:8:"Belgacom";}i:20;a:5:{s:3:"num";s:2:"21";s:8:"Operator";s:19:"MobiSud
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}i:21;a:5:{s:3:"num";s:2:"22";s:8:"Operator";s:25:"Ortel Mobile
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"KPN";}i:22;a:5:{s:3:"num";s:2:"23";s:8:"Operator";s:27:"Mobile Vikings
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:8:"Citylive";}i:23;a:5:{s:3:"num";s:2:"24";s:8:"Operator";s:25:"Mobile World
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:4:"Base";}i:24;a:5:{s:3:"num";s:2:"25";s:8:"Operator";s:23:"JIM Mobile
+(using BASE)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:45:"De Persgroep (50%) Roularta Media Group (50%)";}i:25;a:5:{s:3:"num";s:2:"26";s:8:"Operator";s:19:"dixiTel
+(using ...)";s:10:"Technology";s:3:"GSM";s:11:"Subscribers";s:3:"...";s:9:"Ownership";s:3:"...";}}}

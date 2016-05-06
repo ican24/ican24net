@@ -1,0 +1,3069 @@
+/* */
+@import url(reset.css); 
+@import url(button.css);
+@import url(fotorama.css);
+@import url(popup.css);
+@import url(jquery.fancybox.css);
+
+/* font-family: "RobotoRegular"; */
+@font-face {
+    font-family: "RobotoRegular";
+    src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+    src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+    url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoLight"; */
+@font-face {
+    font-family: "RobotoLight";
+    src: url("../fonts/RobotoLight/RobotoLight.eot");
+    src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoLight/RobotoLight.woff") format("woff"),
+    url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoMedium"; */
+@font-face {
+    font-family: "RobotoMedium";
+    src: url("../fonts/RobotoMedium/RobotoMedium.eot");
+    src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"),
+    url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoBold"; */
+@font-face {
+    font-family: "RobotoBold";
+    src: url("../fonts/RobotoBold/RobotoBold.eot");
+    src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/RobotoBold/RobotoBold.woff") format("woff"),
+    url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+body {
+    background-color:#ffffff;
+    font-family: RobotoRegular,sans-serif;
+    max-width: 1680px;
+    margin:0 auto;
+}
+
+.clear {
+clear: both;
+}
+
+.wrapper {
+}
+
+/** header **/
+.header {
+    background-image:url(../images/bg-11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -moz-background-size : cover; 
+    -webkit-background-size : cover; 
+    -o-background-size : cover; 
+    background-position: 50% 50%;
+    width: 100%;
+    height:680px;
+    overflow: hidden;
+}
+
+.menu_header {
+    width:90%;
+    padding:20px 5%;
+    border-bottom:1px solid #7A7879;
+    overflow: hidden;
+    font-family: "RobotoBold", sans-serif;
+}
+
+.menu_header_inside_left {
+    float:left;
+    width:20%;
+}
+/*
+.menu_header_inside_left div img {
+    max-width: 100%;
+    height:auto;
+}
+*/
+.menu_header_inside_left img {
+    position:absolute;
+    top:15px;
+    left:20px;
+}
+
+.menu_header_inside_right {
+    float:right;
+    width:80%;
+    margin-top:8px;
+}
+
+.menu_header_inside_right div {
+    overflow: hidden;
+}
+
+.menu_header_inside_right div ul li {
+    float:left;
+    margin:0 16px;
+}
+
+.menu_header_inside_right div ul li a {
+    color:#e3e3e3;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.menu_header_inside_right div ul li p {
+    color:#e3e3e3;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.menu_header_inside_right div ul li a:hover {
+    text-decoration: underline;
+    color:#CB8F22;
+}
+
+.utp_header {
+    margin-top:20px;
+    width:45%;
+    padding-left:50%;
+    padding-right:5%;
+    float:right;
+    text-align: center;
+}
+.utp_header h4 {
+    color:#bababa;
+    font-size:30px;
+    letter-spacing: 3px;
+    margin-top:20px;
+}
+
+.utp_header h3 {
+    font-size:30px;
+    color:#fff;
+    font-family: "RobotoBold";
+    letter-spacing: 3px;
+    line-height: 1.4;
+}
+
+.utp_header h3 span {
+    color:#DE3633;
+}
+
+.utp_header p {
+    margin-top:20px;
+    margin-bottom:70px;
+    font-size:22px;
+    color:#999999;
+    line-height: 1.9;
+}
+/** header **/
+
+/** block Advantages **/
+.Advantages {
+    width:100%;
+    /* background-color:#fff; */
+    padding-top:40px;
+    overflow:hidden;
+    padding-bottom:50px;
+}
+
+.utp_Advantages {
+    text-align: center;
+    margin-bottom:70px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+    
+}
+
+.Advantages_inside {
+    width:33.33%;
+    text-align: right;
+    float:left;
+}
+
+.Advantages1block {
+    padding-left:40px;
+    overflow: hidden;
+    margin-bottom:50px;
+}
+
+#po_centru {
+    text-align: center;
+}
+
+
+.Advantages1block img {
+    float:right;
+}
+
+.Advantages1block h6 {
+    color:#464646;
+    font-size:18px;
+    padding-right:70px;
+    margin-bottom:10px;
+    text-transform: uppercase;
+    font-family: "RobotoBold";
+}
+
+.Advantages1block p {
+    padding-right:70px;
+    color:#777777;
+    line-height: 25px;
+}
+
+.Advantages_inside #pict_rezina {
+    max-width: 100%;
+    height:auto;
+}
+
+
+.Advantages2block {
+    padding-right:40px;
+    overflow: hidden;
+    margin-bottom:50px;
+    text-align: left;
+}
+
+.Advantages2block img {
+    float:left;
+}
+
+.Advantages2block h6 {
+    color:#464646;
+    font-size:18px;
+    padding-left:70px;
+    margin-bottom:10px;
+    text-transform: uppercase;
+    font-family: "RobotoBold";
+}
+
+.Advantages2block p {
+    padding-left:70px;
+    color:#777777;
+    line-height: 25px;
+}
+/** block advantages **/
+
+/** 4 modeli begin **/
+
+.utp_channels {
+    text-align: center;
+    margin-bottom:70px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+}
+
+.channels {
+    background-color:#F2F2F2;
+    width:90%;
+    padding:80px 5% 50px 5%;
+}
+
+
+.channels_odin_phone {
+    width:100%;
+    overflow:hidden;
+    padding-bottom:50px;
+    border-bottom:1px dotted #4b4b4b;
+}
+
+#bez_punktira_niz {
+    border:none;
+}
+
+
+.channels_inside {
+    width:50%;
+    float:left;
+    padding-top:50px;
+}
+
+.channels_inside2 {
+    width:50%;
+    float:right;
+    padding-top:50px;
+    text-align: center;
+}
+
+#bez_otstupa_verh_model {
+    padding-top:0;
+}
+
+.channels_inside div {
+    color:#4b4b4b;
+}
+
+.channels_inside div h3 {
+    margin-bottom:30px;
+    font-family: "RobotoMedium";
+    font-size:30px;
+    color:#CB8F22;
+}
+
+
+.channels_inside div h4 {
+    padding-left:30px;
+    font-size:16px;
+    line-height: 1.6;
+    margin-bottom:30px;
+}
+
+.channels_inside div h4 a {
+    margin-top:10px;
+    display:inline-block;
+}
+
+.channels_inside div p {
+    text-align: left;
+    line-height: 1.9;
+    padding-left:30px;
+    font-size:16px;
+}
+
+.channels_inside div p.podarok {
+    color:rgb(221, 74, 80);
+}
+
+.channels_inside div img {
+    margin-right:30px;
+    position:relative;
+    top:3px;
+}
+
+.channels_inside div p.cena_phone {
+    font-size:30px;
+    margin-left:50px;
+    font-family: "RobotoBold";
+}
+
+.channels_inside div p.zakazat {
+    margin:30px 0 20px 50px;
+}
+
+.channels_inside div p span {
+    font-size:20px;
+    position: relative;
+    padding:0 10px;
+    font-family: RobotoRegular,sans-serif;
+}
+
+
+.channels_inside div p span:before {
+    border-bottom: 3px solid red;
+    position: absolute;
+    bottom:50%;
+    left:0;
+    content: "";
+    width: 100%;
+    height: 50%;
+    transform: rotate(-7deg);
+}
+
+
+
+
+.channels_inside2 div p.cena_phone {
+    font-size:30px;
+    margin-left:50px;
+    font-family: "RobotoBold";
+}
+
+.channels_inside2 div p.zakazat {
+    margin:30px 0 20px 50px;
+}
+
+.channels_inside2 div p span {
+    font-size:20px;
+    position: relative;
+    padding:0 10px;
+    font-family: RobotoRegular,sans-serif;
+}
+
+
+.channels_inside2 div p span:before {
+    border-bottom: 3px solid red;
+    position: absolute;
+    bottom:50%;
+    left:0;
+    content: "";
+    width: 100%;
+    height: 50%;
+    transform: rotate(-7deg);
+}
+    
+
+#fotorama_center {
+    padding: 0 0 0 20%;
+}
+
+/** 4 modeli **/
+
+
+
+/** kak mu rabotaem **/
+
+.how_work {
+    width:90%;
+    background-color:#d9d9d9;
+    padding:40px 5% 40px 5%;
+}
+.how_work h3 {
+    text-align: center;
+    margin-bottom:20px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+    
+}
+.how_work h3 span {
+    color:#CB8F22;
+}
+.how_work_centr1 {
+    width:100%;
+    padding-top: 5px;
+}
+
+.how_work_centr2 { 
+    float:right; 
+    right:50%; 
+    position:relative; 
+    padding-top: 0px;
+} 
+
+.how_work_centr2 ul { 
+    float:left; 
+    left:50%; 
+    position:relative;
+    overflow: hidden;
+    padding-top: 0px;
+} 
+
+
+.how_work_centr2 ul li {
+    float:left;
+    margin:0 20px;
+    text-align: center;
+}
+
+.how_work_centr2 ul li img {
+    margin-bottom:0px;
+}
+
+.how_work_snoska {
+    text-align:center;
+    border:1px solid #000;
+    width:40%;
+    margin: 80px auto 0 auto;
+    color:#4b4b4b;
+    padding:20px 0 10px 0;
+    position:relative;
+}
+
+.how_work_snoska p {
+    line-height: 1.5;
+}
+
+.how_work_snoska p.snoska_zagolovok {
+    position:absolute;
+    top:-17px;
+    left:130px;
+    padding:0 20px;
+    background-color:#D9D9D9;
+    font-size:20px;
+    color:#2e2e2e;
+}
+
+/** kak mu rabotaem **/
+
+.team h3 {
+    text-align: center;
+    margin-bottom:70px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+    
+}
+
+.team h3 span {
+    color:#1a1a1a;
+}
+
+.team_inside {
+    width:33.33%;
+    float:left;
+    position:relative;
+}
+
+
+.team_inside div {
+    border: 1px solid #A3A3A3;
+    border-bottom: 4px solid #A3A3A3;
+    border-radius: 0 15px 0 15px;
+    -moz-border-radius: 0 15px 0 15px;
+    -webkit-border-radius: 0 15px 0 15px;
+    background-color:#464646;
+    margin:0 15px;
+    padding:20px;
+    color:#FBFBFB;
+    font-family: "RobotoLight";
+    line-height: 1.6;
+    font-size:14px;
+    text-align: left;
+    
+}
+
+.comment_info {
+    position:absolute;
+    left:8%;
+    bottom:-85px;
+    overflow: hidden;
+    display:block;
+}
+
+.comment_info img {
+    border-radius: 50%;
+    border-bottom:3px solid #CB8F22;
+    padding-bottom: 4px;
+    max-width: 100%;
+    height:auto;
+    float:left;
+}
+
+.team_inside p.comment_name {
+    display:inline-block;
+    margin:30px 0 0 30px;
+    line-height: 1.5;
+    font-style: italic;
+}
+
+.team_inside p.comment_name span {
+    color:#CB8F22;
+}
+/** team pokupatelei **/
+
+
+
+/** block Ostalis inquiry **/
+
+
+.inquiry {
+    width:90%;
+    /* background-color:#fff; */
+    padding:80px 5% 0 5%;
+    overflow: hidden;
+    
+}
+
+.inquiry h3 {
+    text-align: center;
+    margin-bottom:70px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+    
+}
+
+.inquiry h3 span {
+    color:#CB8F22;
+}
+
+.inquiry_inside {
+    width:33.33%;
+    float:left; 
+}
+
+.inquiry_left {
+    overflow:hidden;
+    text-align: right;
+}
+
+.inquiry_left img {
+    float:right;
+    margin-right:35px;
+}
+
+.inquiry_left h6 {
+    padding-right:90px;
+    font-family: "RobotoMedium";
+    font-size:23px;
+    margin-bottom:15px;
+}
+
+.inquiry_left p {
+    padding-right:90px;
+    color:#464646;
+    line-height: 1.5;
+}
+
+#inquiry_pict_rezina img{
+    text-align: center;
+    max-width: 100%;
+    height:auto;
+}
+
+
+.inquiry_right {
+    overflow:hidden;
+}
+
+.inquiry_right img {
+    float:left;
+    margin-left:35px;
+}
+
+
+.inquiry_right h6 {
+    padding-left:90px;
+    font-family: "RobotoMedium";
+    font-size:23px;
+    margin-bottom:15px;
+}
+
+.inquiry_right p {
+    padding-left:90px;
+    color:#464646;
+    line-height: 1.5;
+}
+
+/** inquiry sinie **/
+
+.inquiry_sinie {
+    width:90%;
+    background-color:#CB8F22;
+    padding: 70px 5%;
+    overflow: hidden;
+    margin-bottom:100px;
+}
+
+.inquiry_sinie_inside_left {
+    float:left;
+    text-align: left;
+    color:#fff;
+    font-family: "RobotoLight";
+}
+
+.inquiry_sinie_inside_left h3 {
+    font-size:36px;
+    margin-bottom:10px;
+}
+
+.inquiry_sinie_inside_left h3 span {
+    font-family: "RobotoMedium";
+}
+
+.inquiry_sinie_inside_left h4 {
+    font-size:18px;
+}
+
+.inquiry_sinie_inside_right {
+    float:right;
+}
+
+.inquiry_sinie_inside_right div a {
+    margin-top:7px;
+    display:block;
+}
+
+
+/** inquiry sinie **/
+/** block Ostalis inquiry **/
+
+
+/** footer **/
+
+.footer {
+    width:90%;
+    background-color:#4D4D4D; 
+    padding:10px 5%;
+    overflow:hidden;
+}
+
+.footer_inside {
+    width:33.33%;
+    float:left;
+    color:#4b4b4b;
+}
+
+.footer_inside div {
+    margin-right:40px;
+}
+
+
+.footer_inside div h6 {
+    font-size:20px;
+    color:#FCFCFC;
+    margin-bottom: 30px;
+}
+
+.footer_inside div p {
+    font-size: 16px;
+    line-height: 1.8;
+    color:#777777;
+}
+
+.footer_inside div a {
+    color:#777;
+}
+
+.footer_inside div a:hover {
+    text-decoration: none;
+}
+
+#Contacts_footer div img {
+    margin-right:15px;
+}
+
+#Contacts_footer div p {
+    font-size:23px;
+}
+
+#Contacts_footer div p.footer_telephone {
+    margin-bottom: 30px;
+}
+
+
+
+/** footer bottom black **/
+
+.bottom_black {
+    background-color:#060606;
+    overflow: hidden;
+    width: 90%;
+    padding:30px 5%;
+}
+
+.bottom_black_inside1 {
+    width:70%;
+    float:left;
+    color:#777;
+    overflow: hidden;
+}
+
+.bottom_black_inside1 p {
+    margin-top:13px;
+}
+
+.bottom_black_inside1 img {
+    float:left;
+    margin-right:30px;
+    margin-top:5px;
+
+}
+
+.bottom_black_inside2 {
+    width:30%;
+    float:right;
+    color:#FCFCFC;
+    text-align: right;
+    margin-top: 8px;
+}
+
+.bottom_black_inside2 a {
+    color:#FCFCFC;
+    text-decoration: none;
+}
+
+
+/** footer bottom black **/
+/** footer **/
+
+
+
+
+/** adaptive zaprosu **/
+
+@media only screen and (min-width:1326px) and (max-width:1680px){
+.pokazat_cena_button2 {
+  display:none;        
+}
+    
+.menu_header a#pull {
+        display: none;
+}
+
+.zayavka_strelka_vniz {
+	display:none;
+}
+
+    
+}
+
+@media only screen and (min-width:1022px) and (max-width:1326px){
+
+/** header **/  
+    
+.menu_header a#pull {
+        display: none;
+}
+    
+.menu_header_inside_left {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+.menu_header_inside_right {
+    float: none;
+    width: 100%;
+    margin-top: 25px;
+}
+    
+.menu_header_inside_right div ul li {
+    float: none;
+    margin: 10px 16px 0 16px;
+    display: inline-block;
+}
+    
+.menu_header_inside_right div ul {
+        text-align: center;
+    } 
+    
+.utp_header {
+    margin-top: 45px;
+}
+    
+/** header **/ 
+/** advantages **/
+    
+.advantages1block {
+    padding-left: 30px;
+}
+    
+.advantages2block {
+    padding-right: 30px;
+}
+    
+.advantages1block p {
+    line-height: 20px;
+}
+    
+.advantages2block p {
+    line-height: 20px;
+}
+    
+.advantages1block h6 {
+    font-size: 16px;
+}
+ 
+.advantages2block h6 {
+    font-size: 16px;
+}    
+/** advantages **/
+    
+/** 4 modeli **/
+.pokazat_cena_button2 {
+  display:none;        
+} 
+    
+/** 4 modeli **/
+    
+/** kak mu rabotaem **/
+    
+.how_work_centr2 ul li {
+    margin: 0 18px;
+}
+    
+.how_work_snoska {
+    width: 50%;
+}
+    
+.how_work_snoska p.snoska_zagolovok {
+    left: 117px;
+}
+    
+/** kak mu rabotaem **/
+    
+/** team **/    
+    
+.comment_info {
+    bottom: -70px;
+}
+    
+.team_inside p.comment_name {
+    display: block;
+    margin: 30px 0 0 100px;
+    line-height: 1;
+}
+    
+.team_inside div {
+    line-height: 1.4;        
+} 
+    
+/** team **/
+/** ostalis inquiry **/
+ 
+.inquiry {
+    width: 94%;
+    background-color: #ffffff;
+    padding: 80px 3% 0 3%;
+    overflow: hidden;
+}
+    
+.inquiry_left h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_right h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_left p {
+    line-height: 1.2;
+    font-size: 15px;
+}
+    
+.inquiry_right p {
+    line-height: 1.2;
+    font-size: 15px;
+}
+    
+.inquiry_sinie {
+    width: 94%;
+    padding: 70px 3%;
+}
+
+.inquiry_sinie_inside_left h3 {
+    font-size: 31px;
+}
+    
+.inquiry_sinie_inside_left h4 {
+    font-size: 15px;
+}
+
+.zayavka_strelka_vniz {
+	display:none;
+}
+    
+/** ostalis inquiry **/
+    
+}
+
+
+
+@media only screen and (min-width:766px) and (max-width:1021px){
+
+/** header **/   
+    
+.menu_header a#pull {
+        display: none;
+}
+    
+.menu_header_inside_left {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+.menu_header_inside_right {
+    float: none;
+    width: 100%;
+    margin-top: 25px;
+}
+    
+.menu_header_inside_right div ul li {
+    float: none;
+    margin: 10px 16px 0 16px;
+    display: inline-block;
+}
+    
+.menu_header_inside_right div ul {
+        text-align: center;
+    } 
+    
+.utp_header {
+    margin-top: 45px;
+    width: 55%;
+    padding-left: 40%;
+    padding-right: 5%;
+}
+    
+.utp_header h3 {
+    font-size: 38px;
+}
+    
+.utp_header p {
+    margin-bottom: 50px;
+    line-height: 1.6;
+}
+
+    
+/** header **/ 
+/** advantages **/
+    
+.advantages1block {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+    
+.advantages2block {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+    
+.advantages1block p {
+    line-height: 20px;
+}
+    
+.advantages2block p {
+    line-height: 20px;
+}
+    
+.advantages1block h6 {
+    font-size: 16px;
+}
+ 
+.advantages2block h6 {
+    font-size: 16px;
+} 
+    
+.advantages_inside {
+    text-align: left;
+    float: none;
+    width: 100%;
+}
+    
+#advantages_otstup_top {
+    margin-top:50px;        
+}
+/** advantages **/
+/** 4 modeli **/
+
+.channels_inside div h3 {
+    font-size: 26px;
+}
+    
+.channels_inside div h4 {
+    padding-left: 0;
+}
+    
+.pokazat_cena_button2 {
+  display:none;        
+} 
+    
+.channels_inside div p {
+    padding-left: 0;
+}
+
+/** 4 modeli **/    
+/** kak mu rabotaem **/
+    
+.how_work {
+    width: 96%;
+    padding: 80px 2% 120px 2%;
+}
+    
+.how_work_centr2 ul li {
+    margin: 0 7px;
+}
+    
+.how_work_centr2 ul li img {
+    width: 85px;
+    height: auto;
+}
+    
+.how_work_centr2 ul li p {
+    font-size:14px;        
+}
+    
+.how_work_snoska {
+    width: 65%;
+}
+    
+.how_work_snoska p.snoska_zagolovok {
+    left: 125px;
+}
+    
+.how_work_snoska p {
+    line-height: 1.3;
+    font-size: 15px;
+}
+    
+/** kak mu rabotaem **/
+    
+/** otzuvu **/    
+.otzuvu {
+    width: 96%;
+    height: 815px;
+    padding: 50px 2% 100px 2%;
+}
+    
+    
+.comment_info {
+    bottom: -80px;
+}
+    
+.otzuvu_inside p.comment_name {
+    display: block;
+    margin: 30px 0 0 100px;
+    line-height: 1;
+}
+    
+.otzuvu_inside div {
+    line-height: 1.4;
+    margin-bottom: 85px;
+    padding:15px;
+} 
+    
+.otzuvu_inside {
+    width: 100%;
+    float: none;
+    position: relative;
+}
+    
+/** otzuvu **/
+/** ostalis inquiry **/
+ 
+.inquiry {
+    width: 94%;
+    background-color: #ffffff;
+    padding: 80px 3% 0 3%;
+    overflow: hidden;
+}
+    
+.inquiry_left h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_right h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_left p {
+    line-height: 1.2;
+    font-size: 15px;
+}
+    
+.inquiry_right p {
+    line-height: 1.2;
+    font-size: 15px;
+}
+    
+.inquiry_sinie {
+    width: 94%;
+    padding: 70px 3%;
+}
+
+.inquiry_sinie_inside_left h3 {
+    font-size: 26px;
+}
+    
+.inquiry_sinie_inside_left h4 {
+    font-size: 13px;
+}
+    
+.inquiry_inside {
+    width:100%;
+    float:none;
+}
+
+.zayavka_strelka_vniz {
+	display:none;
+}
+    
+#inquiry_pict_rezina img {
+    display: none;
+}
+    
+.inquiry_right {
+    width: 70%;
+    margin:30px 0;
+}
+    
+.button {
+   padding: 10px 25px;
+   font-size: 15px;
+   letter-spacing: 1px;
+   }
+
+
+.button:hover {
+  padding: 10px 25px;
+  font-size: 15px;
+  letter-spacing: 1px;
+   }
+
+
+.button:active {
+   padding: 10px 25px;
+   font-size: 15px;
+   letter-spacing: 1px;
+   }
+    
+/** ostalis inquiry **/
+/** footer **/
+
+.footer {
+    width: 96%;
+    padding: 80px 2%;
+}
+    
+.footer_inside {
+    float: right;
+}
+    
+.footer_inside div {
+    margin-right: 20px;
+}
+    
+.footer_inside div h6 {
+    font-size: 17px;
+}
+    
+.footer_inside div p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+
+.button_footer {
+  border: 2px solid #777;
+  padding: 10px 15px;
+  font-size: 16px;
+   }    
+    
+    
+.button_footer:hover {
+  border: 2px solid #ffffff;
+  padding: 10px 15px;
+  font-size: 16px;
+   }
+
+
+.button_footer:active {
+  border: 2px solid #ffffff;
+  padding: 10px 15px;
+  font-size: 16px;
+   }
+    
+.bottom_black_inside1 p {
+    font-size:13px;
+}
+/** footer **/
+    
+}
+
+
+
+@media only screen and (min-width:598px) and (max-width:767px){
+
+/** header **/  
+    
+.menu_header a#pull {
+        display: none;
+}
+    
+.menu_header_inside_left {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+.menu_header_inside_right {
+    float: none;
+    width: 100%;
+    margin-top: 25px;
+}
+    
+.menu_header_inside_right div ul li {
+    float: none;
+    margin: 10px 16px 0 16px;
+    display: inline-block;
+}
+    
+.menu_header_inside_right div ul {
+        text-align: center;
+    } 
+    
+.utp_header {
+    margin-top: 45px;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+    
+.utp_header h3 {
+    font-size: 35px;
+}
+    
+.utp_header p {
+    margin-bottom: 50px;
+    line-height: 1.4;
+    font-size:20px;
+}
+    
+.header {
+    height:690px;
+    }
+    
+/** header **/ 
+/** advantages **/
+    
+.advantages1block {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+    
+.advantages2block {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+    
+.advantages1block p {
+    line-height: 20px;
+}
+    
+.advantages2block p {
+    line-height: 20px;
+}
+    
+.advantages1block h6 {
+    font-size: 16px;
+}
+ 
+.advantages2block h6 {
+    font-size: 16px;
+} 
+    
+.advantages_inside {
+    text-align: left;
+    float: none;
+    width: 100%;
+}
+    
+#advantages_otstup_top {
+    margin-top:50px;        
+}
+/** advantages **/
+/** 4 modeli **/
+
+.channels_inside div h3 {
+    font-size: 26px;
+}
+    
+.channels_inside div h4 {
+    padding-left: 0;
+}
+    
+.channels_inside div p {
+    padding-left: 0;
+}
+    
+.channels {
+    width: 96%;
+    padding: 80px 2% 50px 2%;
+}
+    
+.channels_inside2 div p.cena_phone {
+    font-size: 24px;
+    margin-top:50px;
+}
+    
+.pokazat_cena_button {
+  display:none;        
+}  
+    
+.channels_inside2 div p.zakazat {
+    margin: 45px 0 20px 50px;
+}
+
+
+/** 4 modeli **/    
+/** kak mu rabotaem **/
+    
+.how_work {
+    width: 96%;
+    padding: 80px 2% 120px 2%;
+}
+    
+.how_work h3 {
+    margin-bottom:50px;        
+}
+    
+.how_work_centr2 {
+    float: none;
+    position: static;
+}
+    
+.how_work_centr2 ul {
+    float: none;
+    position: static;
+}
+    
+.how_work_centr2 ul li {
+    margin: 30px 0 0 0;
+    width:100%;
+}
+    
+.how_work_centr2 ul li img {
+    width: 85px;
+    height: auto;
+    margin-bottom: 10px;
+}
+    
+.how_work_centr2 ul li p {
+    font-size:16px;        
+}
+    
+.how_work_snoska {
+    width: 70%;
+}
+    
+.how_work_snoska p.snoska_zagolovok {
+    left: 80px;
+}
+    
+.how_work_snoska p {
+    line-height: 1.3;
+    font-size: 15px;
+}
+    
+/** kak mu rabotaem **/
+    
+/** otzuvu **/    
+.otzuvu {
+    width: 96%;
+    height: 815px;
+    padding: 50px 2% 100px 2%;
+}
+    
+    
+.comment_info {
+    bottom: -80px;
+}
+    
+.otzuvu_inside p.comment_name {
+    display: block;
+    margin: 30px 0 0 100px;
+    line-height: 1;
+    font-size:14px;
+}
+    
+.otzuvu_inside div {
+    line-height: 1.3;
+    margin-bottom: 85px;
+    padding:15px;
+    font-size: 13px;
+} 
+    
+.otzuvu_inside {
+    width: 100%;
+    float: none;
+    position: relative;
+}
+    
+/** otzuvu **/
+/** ostalis inquiry **/
+ 
+.inquiry {
+    width: 94%;
+    background-color: #ffffff;
+    padding: 80px 3% 0 3%;
+    overflow: hidden;
+}
+    
+.inquiry_left h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_right h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_left p {
+    line-height: 1.2;
+    font-size: 15px;
+}
+    
+.inquiry_right p {
+    line-height: 1.2;
+    font-size: 15px;
+}
+    
+.inquiry_sinie {
+    width: 96%;
+    padding: 70px 2%;
+}
+    
+.inquiry_sinie_inside_left {
+    float: none;
+    text-align: center;
+}
+    
+.inquiry_sinie_inside_right {
+    float: none;
+    text-align: center;
+}
+    
+ .inquiry_sinie_inside_right div{
+    display:inline-block;
+}   
+    
+.inquiry_sinie_inside_right div a {
+    margin-top: 25px;
+}
+
+.inquiry_sinie_inside_left h3 {
+    font-size: 28px;
+}
+    
+.inquiry_sinie_inside_left h4 {
+    font-size: 14px;
+}
+
+.zayavka_strelka_naprotiv {
+	display:none;
+}
+    
+.inquiry_inside {
+    width:100%;
+    float:none;
+}
+
+.zayavka_strelka_naprotiv {
+	display:none;
+}
+    
+#inquiry_pict_rezina img {
+    display: none;
+}
+    
+.inquiry_right {
+    width: 70%;
+    margin:30px 0;
+}
+    
+.button {
+   padding: 15px 60px;
+    font-size: 18px;
+   letter-spacing: 1px;
+}
+
+
+.button:hover {
+  padding: 15px 60px;
+    font-size: 18px;
+  letter-spacing: 1px;
+}
+
+
+.button:active {
+   padding: 15px 60px;
+    font-size: 18px;
+   letter-spacing: 1px;
+}
+    
+/** ostalis inquiry **/
+/** footer **/
+
+.footer {
+    width: 96%;
+    padding: 80px 2%;
+}
+    
+.footer_inside {
+    float: none;
+    width:100%;
+    text-align: center;
+}
+    
+.footer_inside div {
+    margin-right: 0;
+    margin-bottom: 40px;
+}
+    
+.footer_inside div h6 {
+    font-size: 17px;
+    margin-bottom: 18px;
+}
+    
+.footer_inside div p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+    
+#Contacts_footer div p {
+    font-size: 40px;
+}
+
+
+.button_footer {
+  border: 3px solid #777;
+  padding: 15px 40px;
+  font-size: 20px;
+   }    
+    
+    
+.button_footer:hover {
+  border: 3px solid #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+   }
+
+
+.button_footer:active {
+  border: 3px solid #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+   }
+    
+.bottom_black_inside1 p {
+    font-size:13px;
+}
+/** footer **/
+
+.menu_header_inside_right a#pull {
+    display:none;
+    text-decoration: none;
+    padding:10px 3%;
+    width:94%;
+    color:#00B6E9;
+    position:relative;
+}   
+    
+}
+
+
+
+
+@media only screen and (min-width:478px) and (max-width:598px){
+    
+ /** header **/
+    
+     /** menu for click **/
+.menu_header a#pull {
+    display:inline-block;
+    position:relative;
+    text-decoration: none;
+    padding:10px 3%;
+    width:94%;
+    color:#90a301;
+    font-size:20px;
+    background-color:#fff;
+    letter-spacing: 3px;
+}
+    
+.menu_header a#pull:after {
+    content:"";
+    display: inline-block;
+    background-image: url(../images/icon-menu.png);
+    background-repeat: no-repeat;
+    width:13px;
+    height:12px;
+    position:absolute;
+    right:6%;
+    top:15px;
+}
+    
+.menu_header_inside_right {
+    display:none;
+     margin-bottom:20px;
+}
+    /** menu for click **/
+
+.menu_header {
+    border-bottom:0;
+}
+    
+.menu_header_inside_left {
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin-bottom:30px;
+}
+
+.menu_header_inside_right {
+    float: none;
+    width: 100%;
+    margin-top: 25px;
+}
+    
+.menu_header_inside_right div ul li {
+    float: none;
+    margin: 10px 16px 0 16px;
+    display: inline-block;
+}
+    
+.menu_header_inside_right div ul {
+        text-align: center;
+    } 
+    
+.utp_header {
+    margin-top: 45px;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+    
+.utp_header h3 {
+    font-size: 35px;
+}
+    
+.utp_header p {
+    margin-bottom: 50px;
+    line-height: 1.4;
+    font-size:20px;
+}
+    
+.header {
+    height:690px;
+    }
+    
+/** header **/ 
+/** advantages **/
+    
+.utp_advantages {
+    font-size:32px;
+    }
+    
+.advantages1block {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+    
+.advantages2block {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+    
+.advantages1block p {
+    line-height: 20px;
+}
+    
+.advantages2block p {
+    line-height: 20px;
+}
+    
+.advantages1block h6 {
+    font-size: 16px;
+}
+ 
+.advantages2block h6 {
+    font-size: 16px;
+} 
+    
+.advantages_inside {
+    text-align: left;
+    float: none;
+    width: 100%;
+}
+    
+#advantages_otstup_top {
+    margin-top:50px;        
+}
+/** advantages **/
+/** 4 modeli **/
+    
+.utp_channels {
+    font-size:32px;    
+}
+    
+.channels_inside {
+    width: 100%;
+    float: none;
+}
+    
+.channels_inside2 {
+    width: 100%;
+    float: none;
+    margin-top: 40px;
+}
+
+.channels_inside div h3 {
+    font-size: 26px;
+}
+    
+.channels_inside div h4 {
+    padding-left: 0;
+}
+    
+.channels_inside div p {
+    padding-left: 0;
+}
+    
+.channels {
+    width: 96%;
+    padding: 80px 2% 50px 2%;
+}
+    
+.channels_inside2 div p.cena_phone {
+    font-size: 24px;
+    margin-top:50px;
+    text-align: center;
+    margin-left:0;
+}
+    
+#fotorama_center {
+    padding:0;
+}
+    
+.pokazat_cena_button {
+  display:none;        
+}  
+    
+.channels_inside2 div p.zakazat {
+    margin:50px 0 0 0;
+    text-align: center;
+    
+}
+
+
+/** 4 modeli **/    
+/** kak mu rabotaem **/
+    
+.how_work {
+    width: 96%;
+    padding: 80px 2% 120px 2%;
+}
+    
+.how_work h3 {
+    margin-bottom:50px;
+    font-size:32px;
+}
+    
+.how_work_centr2 {
+    float: none;
+    position: static;
+}
+    
+.how_work_centr2 ul {
+    float: none;
+    position: static;
+}
+    
+.how_work_centr2 ul li {
+    margin: 30px 0 0 0;
+    width:100%;
+}
+    
+.how_work_centr2 ul li img {
+    width: 85px;
+    height: auto;
+    margin-bottom: 10px;
+}
+    
+.how_work_centr2 ul li p {
+    font-size:16px;        
+}
+    
+.how_work_snoska {
+    width: 90%;
+}
+    
+.how_work_snoska p.snoska_zagolovok {
+    left: 92px;
+}
+    
+.how_work_snoska p {
+    line-height: 1.3;
+    font-size: 15px;
+}
+    
+/** kak mu rabotaem **/
+    
+.comment_info {
+    bottom: -80px;
+}
+    
+/** ostalis inquiry **/
+ 
+.inquiry {
+    width: 94%;
+    background-color: #ffffff;
+    padding: 80px 3% 0 3%;
+    overflow: hidden;
+}
+    
+.inquiry h3 {
+    font-size:32px;    
+}
+    
+.inquiry_left h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_right h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_left p {
+    line-height: 1.2;
+    font-size: 15px;
+}
+    
+.inquiry_right p {
+    line-height: 1.2;
+    font-size: 15px;
+}
+    
+.inquiry_sinie {
+    width: 96%;
+    padding: 70px 2%;
+}
+    
+.inquiry_sinie_inside_left {
+    float: none;
+    text-align: center;
+}
+    
+.inquiry_sinie_inside_right {
+    float: none;
+    text-align: center;
+}
+    
+ .inquiry_sinie_inside_right div{
+    display:inline-block;
+}   
+    
+.inquiry_sinie_inside_right div a {
+    margin-top: 25px;
+}
+
+.inquiry_sinie_inside_left h3 {
+    font-size: 23px;
+}
+    
+.inquiry_sinie_inside_left h4 {
+    font-size: 14px;
+}
+
+.zayavka_strelka_naprotiv {
+	display:none;
+}
+    
+.inquiry_inside {
+    width:100%;
+    float:none;
+}
+
+.zayavka_strelka_naprotiv {
+	display:none;
+}
+    
+#inquiry_pict_rezina img {
+    display: none;
+}
+    
+.inquiry_right {
+    width: 70%;
+    margin:30px 0;
+}
+    
+.button {
+   padding: 15px 60px;
+    font-size: 18px;
+   letter-spacing: 1px;
+   }
+
+
+.button:hover {
+  padding: 15px 60px;
+    font-size: 18px;
+  letter-spacing: 1px;
+   }
+
+
+.button:active {
+   padding: 15px 60px;
+    font-size: 18px;
+   letter-spacing: 1px;
+   }
+    
+/** ostalis inquiry **/
+/** footer **/
+
+.footer {
+    width: 96%;
+    padding: 80px 2%;
+}
+    
+.footer_inside {
+    float: none;
+    width:100%;
+    text-align: center;
+}
+    
+.footer_inside div {
+    margin-right: 0;
+    margin-bottom: 40px;
+}
+    
+.footer_inside div h6 {
+    font-size: 17px;
+    margin-bottom: 18px;
+}
+    
+.footer_inside div p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+    
+#Contacts_footer div p {
+    font-size: 40px;
+}
+
+
+.button_footer {
+  border: 3px solid #777;
+  padding: 15px 40px;
+  font-size: 20px;
+   }    
+    
+    
+.button_footer:hover {
+  border: 3px solid #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+   }
+
+
+.button_footer:active {
+  border: 3px solid #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+   }
+    
+.bottom_black_inside1 p {
+    font-size:13px;
+}
+/** footer **/
+    
+}
+
+
+
+
+
+@media only screen and (min-width:316px) and (max-width:477px){
+    
+ /** header **/
+    
+     /** menu for click **/
+.menu_header a#pull {
+    display:inline-block;
+    position:relative;
+    text-decoration: none;
+    padding:10px 3%;
+    width:94%;
+    color:#90a301;
+    font-size:20px;
+    background-color:#fff;
+    letter-spacing: 3px;
+}
+    
+.menu_header a#pull:after {
+    content:"";
+    display: inline-block;
+    background-image: url(../images/icon-menu.png);
+    background-repeat: no-repeat;
+    width:13px;
+    height:12px;
+    position:absolute;
+    right:6%;
+    top:15px;
+}
+    
+.menu_header_inside_right {
+    display:none;
+     margin-bottom:20px;
+}
+    /** menu for click **/
+
+.menu_header {
+    border-bottom:0;
+}
+    
+.menu_header_inside_left {
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin-bottom:20px;
+}
+
+.menu_header_inside_right {
+    float: none;
+    width: 100%;
+    margin-top: 25px;
+}
+    
+.menu_header_inside_right div ul li {
+    float: none;
+    margin: 0 0 10px 0;
+    display: inline-block;
+    width:100%;
+}
+    
+.menu_header_inside_right div ul {
+        text-align: center;
+    } 
+    
+.utp_header {
+    margin-top: 35px;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+    
+.utp_header h4 {
+    font-size: 23px;
+}
+    
+.utp_header h3 {
+    font-size: 26px;
+}
+    
+.utp_header p {
+    margin-bottom: 50px;
+    line-height: 1.2;
+    font-size:20px;
+    color:#fff;
+}
+    
+.header {
+    height:610px;
+}
+    
+.button {
+    padding: 10px 40px;
+    font-size: 18px;
+}
+    
+.button:hover {
+    padding: 10px 40px;
+    font-size: 18px;
+}
+    
+.button:active {
+    padding: 10px 40px;
+    font-size: 18px;
+}
+
+  
+    
+/** header **/ 
+/** advantages **/
+    
+.utp_advantages {
+    font-size:28px;
+    padding: 0 5px 30px 5px;
+    }
+    
+.advantages1block {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+    
+.advantages2block {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+    
+.advantages1block p {
+    line-height: 20px;
+    padding-right: 70px;
+}
+    
+.advantages2block p {
+    line-height: 20px;
+}
+    
+.advantages1block h6 {
+    font-size: 16px;
+}
+ 
+.advantages2block h6 {
+    font-size: 16px;
+} 
+    
+.advantages_inside {
+    text-align: left;
+    float: none;
+    width: 100%;
+}
+    
+#advantages_otstup_top {
+    margin-top:50px;        
+}
+/** advantages **/
+/** 4 modeli **/
+    
+.utp_channels {
+    font-size:28px;    
+}
+    
+.channels_inside {
+    width: 100%;
+    float: none;
+}
+    
+.channels_inside2 {
+    width: 100%;
+    float: none;
+    margin-top: 10px;
+}
+
+.channels_inside div h3 {
+    font-size: 26px;
+}
+    
+.channels_inside div h4 {
+    padding-left: 0;
+}
+    
+.channels_inside div p {
+    padding-left: 0;
+}
+    
+.channels {
+    width: 94%;
+    padding: 80px 3% 50px 3%;
+}
+    
+.channels_inside2 div p.cena_phone {
+    font-size: 24px;
+    margin-top:50px;
+    text-align: center;
+    margin-left:0;
+}
+    
+#fotorama_center {
+    padding:0;
+}
+    
+.pokazat_cena_button {
+  display:none;        
+}  
+    
+.channels_inside2 div p.zakazat {
+    margin:50px 0 0 0;
+    text-align: center;
+    
+}
+
+
+/** 4 modeli **/    
+/** kak mu rabotaem **/
+    
+.how_work {
+    width: 96%;
+    padding: 80px 2% 120px 2%;
+}
+    
+.how_work h3 {
+    margin-bottom:50px;
+    font-size:28px;
+}
+    
+.how_work_centr2 {
+    float: none;
+    position: static;
+}
+    
+.how_work_centr2 ul {
+    float: none;
+    position: static;
+}
+    
+.how_work_centr2 ul li {
+    margin: 30px 0 0 0;
+    width:100%;
+}
+    
+.how_work_centr2 ul li img {
+    width: 85px;
+    height: auto;
+    margin-bottom: 10px;
+}
+    
+.how_work_centr2 ul li p {
+    font-size:16px;        
+}
+    
+.how_work_snoska {
+    width: 96%;
+}
+    
+.how_work_snoska p.snoska_zagolovok {
+    left: 32px;
+}
+    
+.how_work_snoska p {
+    line-height: 1.3;
+    font-size: 15px;
+}
+    
+/** kak mu rabotaem **/
+    
+    
+.comment_info {
+    bottom: -80px;
+}
+    
+/** ostalis inquiry **/
+ 
+.inquiry {
+    width: 94%;
+    background-color: #ffffff;
+    padding: 80px 3% 0 3%;
+    overflow: hidden;
+}
+    
+    
+.inquiry h3 {
+    font-size:28px;    
+}
+    
+.inquiry_left h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_right h6 {
+    font-size: 20px;
+
+}
+    
+.inquiry_left p {
+    line-height: 1.2;
+    font-size: 15px;
+    padding-right:0;
+    text-align: center;
+}
+    
+    
+.inquiry_inside {
+    width:100%;
+    float:none;
+}
+
+.zayavka_strelka_naprotiv {
+	display:none;
+}
+    
+#inquiry_pict_rezina img {
+    display: none;
+}
+    
+.inquiry_right {
+    margin:30px 0;
+    width:100%; 
+}
+    
+.inquiry_right p {
+    line-height: 1.2;
+    font-size: 15px;
+    padding-left:0;
+    text-align: center;
+    margin-top:22px;
+}
+    
+.inquiry_sinie {
+    width: 96%;
+    padding: 70px 2%;
+}
+    
+.inquiry_sinie_inside_left {
+    float: none;
+    text-align: center;
+}
+    
+.inquiry_sinie_inside_right {
+    float: none;
+    text-align: center;
+}
+    
+ .inquiry_sinie_inside_right div{
+    display:inline-block;
+}   
+    
+.inquiry_sinie_inside_right div a {
+    margin-top: 25px;
+}
+
+.inquiry_sinie_inside_left h3 {
+    font-size: 27px;
+}
+    
+.inquiry_sinie_inside_left h4 {
+    font-size: 14px;
+}
+    
+.zayavka_strelka_naprotiv {
+	display:none;
+}
+    
+    
+/** ostalis inquiry **/
+/** footer **/
+
+.footer {
+    width: 96%;
+    padding: 80px 2%;
+}
+    
+.footer_inside {
+    float: none;
+    width:100%;
+    text-align: center;
+}
+    
+.footer_inside div {
+    margin-right: 0;
+    margin-bottom: 40px;
+}
+    
+.footer_inside div h6 {
+    font-size: 17px;
+    margin-bottom: 18px;
+}
+    
+.footer_inside div p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+    
+.links_phone div p a{
+    font-size:17px;
+    padding:8px 0;
+    
+}
+    
+#Contacts_footer div p {
+    font-size: 30px;
+}
+
+
+.button_footer {
+  border: 3px solid #777;
+  padding: 15px 40px;
+  font-size: 20px;
+   }    
+    
+    
+.button_footer:hover {
+  border: 3px solid #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+   }
+
+
+.button_footer:active {
+  border: 3px solid #ffffff;
+  padding: 15px 40px;
+  font-size: 20px;
+   }
+    
+.bottom_black_inside1 p {
+    font-size:13px;
+}
+    
+.bottom_black_inside1 img {
+    float: none;
+}
+/** footer **/
+    
+    
+/** vspluvaushie formu **/
+    
+#popupform h2 {
+    font-size: 20px;
+}
+    
+#popupform .input_text {
+    font-size: 14px;
+}
+    
+#popupform .input_text2 {
+    font-size: 14px;
+}
+    
+#popupform .comment {
+    display:none;    
+}
+    
+#popupform .button_send {
+    border: 2px solid #F27416;
+    padding: 13px 17px;
+    font-size: 17px;
+    letter-spacing: 0;
+    margin: 30px 0 0 0px;
+}
+    
+    
+#popupform2 h2 {
+    font-size: 20px;
+}
+    
+#popupform2 .input_text {
+    font-size: 14px;
+}
+    
+#popupform2 .input_text2 {
+    font-size: 14px;
+}
+    
+#popupform2 .comment {
+    display:none;    
+}
+    
+#popupform2 .button_send {
+    border: 2px solid #F27416;
+    padding: 13px 17px;
+    font-size: 17px;
+    letter-spacing: 0;
+    margin: 30px 0 0 0px;
+}
+
+    
+    
+    
+#popupform3 h2 {
+    font-size: 20px;
+}
+    
+#popupform3 .input_text {
+    font-size: 14px;
+}
+    
+#popupform3 .input_text2 {
+    font-size: 14px;
+}
+    
+#popupform3 .comment {
+    display:none;    
+}
+    
+#popupform3 .button_send {
+    border: 2px solid #F27416;
+    padding: 13px 17px;
+    font-size: 17px;
+    letter-spacing: 0;
+    margin: 30px 0 0 0px;
+}
+    
+    
+    
+    
+#popupform4 h2 {
+    font-size: 20px;
+}
+    
+#popupform4 .input_text {
+    font-size: 14px;
+}
+    
+#popupform4 .input_text2 {
+    font-size: 14px;
+}
+    
+#popupform4 .comment {
+    display:none;    
+}
+    
+#popupform4 .button_send {
+    border: 2px solid #F27416;
+    padding: 13px 17px;
+    font-size: 17px;
+    letter-spacing: 0;
+    margin: 30px 0 0 0px;
+}
+    
+ 
+    
+    
+    
+#popupform5 h2 {
+    font-size: 20px;
+}
+    
+#popupform5 .input_text {
+    font-size: 14px;
+}
+    
+#popupform5 .input_text2 {
+    font-size: 14px;
+}
+    
+#popupform5 .comment {
+    display:none;    
+}
+    
+#popupform5 .button_send {
+    border: 2px solid #F27416;
+    padding: 13px 17px;
+    font-size: 17px;
+    letter-spacing: 0;
+    margin: 30px 0 0 0px;
+}
+  
+    
+/** vspluvaushie formu **/
+    
+}
+
+/* new!!!!!!!!!!!!! */
+.Challenge h3 {
+    text-align: center;
+    margin-bottom:70px;
+    font-family: "RobotoBold";
+    color:#ccc;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+    
+}
+
+.Challenge h3 span {
+    color:#ccc;
+}
+
+.Model h3 {
+    text-align: center;
+    margin-bottom:70px;
+    font-family: "RobotoBold";
+    color:#ccc;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+    
+}
+
+.Model h3 span {
+    color:#CB8F22;
+}
+.Model h6 {
+    color:#CB8F22;
+    font-size:18px;
+    padding-left:0px;
+    margin-bottom:10px;
+    text-transform: uppercase;
+    font-family: "RobotoBold";
+}
+
+.Model p {
+    padding-left:70px;
+    color:#39271F;
+    line-height: 25px;
+}
+
+
+/** partners **/
+.partners {
+    width:90%;
+    /* background-color:#fff; */
+    padding:80px 5% 150px 5%;
+}
+
+.partners h3 {
+    text-align: center;
+    margin-bottom:80px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+    
+}
+
+.partners h3 span {
+    color:#CB8F22;
+}
+.partners li {
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.partners_centr1 {
+    width:100%;
+}
+
+.partners_centr2 { 
+    float:right; 
+    right:50%; 
+    position:relative; 
+} 
+.partners_centr2 ul { 
+    float:left; 
+    left:50%; 
+    position:relative;
+    overflow: hidden;
+    padding-top: 30px;
+} 
+
+
+.partners_centr2 ul li {
+    float:left;
+    margin:0 30px;
+}
+
+/** partners end **/
+
+
+/** solution  **/
+.solution {
+    width:90%;
+    padding:10px 5% 10px 5%;
+}
+
+.solution h3 {
+    text-align: center;
+    margin-bottom:70px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:30px;
+    
+}
+
+.solution h3 span {
+    color:#1a1a1a;
+}
+/** solution end **/
+
+
+/** block benefit **/
+.benefit {
+    width:800px;
+    padding-right:40px;
+    overflow: hidden;
+    margin-bottom:70px;
+    text-align: left;
+}
+
+.benefit img {
+    float:left;
+    padding-right:70px;
+    margin-bottom:120px;
+}
+
+.benefit h6 {
+    color:#464646;
+    font-size:18px;
+    padding-left:210px;
+    margin-bottom:10px;
+    text-transform: uppercase;
+    font-family: "RobotoBold";
+}
+
+.benefit p {
+    padding-left:70px;
+    color:#39271F;
+    line-height: 25px;
+}
+/** block benefit end **/
+
+.logo {
+    font-size:30px;
+    color:#CB8F22;
+}
+.logo span{
+    font-size:30px;
+    color:#4b4b4b;
+    font-style: italic;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+.imgHolder {
+    position: relative;
+    display: block;
+    margin-left: 22%;
+/*
+    margin-right: auto; 
+    margin-bottom: 0px;
+*/
+}
+.imgHolder span.Label1 {
+    position: absolute;
+    left: 50px;
+    top: 180px;
+}
+.imgHolder span.Date1{
+    position: absolute;
+    left: 55px;
+    top: 200px;
+}
+.imgHolder span.Label2 {
+    position: absolute;
+    left: 235px;
+    top: 150px;
+    font-size:14px;
+}
+.imgHolder span.Date2{
+    position: absolute;
+    left: 240px;
+    top: 170px;
+    font-size:15px;
+}
+.imgHolder span.Label3 {
+    position: absolute;
+    left: 404px;
+    top: 120px;
+    font-size:14px;
+}
+.imgHolder span.Date3{
+    position: absolute;
+    left: 400px;
+    top: 140px;
+    font-size:13px;
+}
+.imgHolder span.Label4 {
+    position: absolute;
+    left: 313px;
+    top: 60px;
+    font-size:12px;
+}
+.imgHolder span.Date4{
+    position: absolute;
+    left: 315px;
+    top: 77px;
+    font-size:12px;
+}
+.imgHolder span.Label5 {
+    position: absolute;
+    left: 473px;
+    top: 30px;
+    font-size:11px;
+}
+.imgHolder span.Date5{
+    position: absolute;
+    left: 477px;
+    top: 45px;
+    font-size:11px;
+}
+.hl {
+   font-size:12px;
+	color:#CB8F22;
+}
+#members{
+/*
+	color:#F27416;
+*/
+	color:#111;
+	font-size:18px;
+   font-style: bold;
+}
+#pop-up {
+	display: none;
+	position: absolute;
+	width: 30%;
+	padding: 10px;
+	background: #fff;
+	color: #000000;
+	border: 1px solid #1a1a1a;
+	font-size: 90%;
+    opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+#pop-up td{
+    padding-left:10px; 
+    padding-bottom:3px; 
+	font-size: 80%;
+}
+#pop-up h6 {
+	color:#CB8F22;
+	font-size: 140%;
+}
+#pop-up span {
+	color:#CB8F22;
+}
+
+
+/** partners **/
+.map {
+    width:100%;
+    background-color:#fdfdfd;
+    padding-top:20px;
+    padding-bottom:30px;
+    /* padding:1px 1px 1px 1px; */
+}
+
+.map h3 {
+    text-align: center;
+    margin-bottom:10px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:10px;
+    
+}
+.ShowRoom h3 span {
+    color:#CB8F22;
+}
+
+.ShowRoom h3 {
+    text-align: center;
+    margin-bottom:10px;
+    font-family: "RobotoBold";
+    color:#464646;
+    font-size:36px;
+    background-image: url(../images/underheader.png);
+    background-repeat:no-repeat;
+    background-position:bottom center;
+    padding-bottom:10px;
+    
+}
+.ShowRoom h3 span {
+    color:#CB8F22;
+}
+
+#wrapper {
+    width:800px;
+    background:#EFEFEF;
+}
+.section {
+    /* border:solid 1px #999; */
+    float:left;
+    margin-left:10px;
+    width:380px;
+}
+#wrapper div:first-child {
+	margin-left:0px;
+}
+/** website **/
+.headerWS {
+	/*
+    background-image:url(../images/network-yellow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -moz-background-size : cover; 
+    -webkit-background-size : cover; 
+    -o-background-size : cover; 
+    background-position: 50% 50%;
+    */
+    width: 100%;
+    height:680px;
+    overflow: hidden;
+}
+
+.menu_headerWS {
+    width:90%;
+    padding:20px 5%;
+    border-bottom:1px solid #7A7879;
+    overflow: hidden;
+    font-family: "RobotoBold", sans-serif;
+}
+
+.menu_headerWS_inside_left {
+    float:left;
+    width:20%;
+}
+/*
+.menu_header_inside_left div img {
+    max-width: 100%;
+    height:auto;
+}
+*/
+.menu_headerWS_inside_left img {
+    position:absolute;
+    top:15px;
+    left:20px;
+}
+
+.menu_headerWS_inside_right {
+    float:right;
+    width:80%;
+    margin-top:8px;
+}
+
+.menu_headerWS_inside_right div {
+    overflow: hidden;
+}
+
+.menu_headerWS_inside_right div ul li {
+    float:left;
+    margin:0 16px;
+}
+
+.menu_headerWS_inside_right div ul li a {
+    color:#fff;
+    text-decoration: none;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.menu_headerWS_inside_right div ul li p {
+    color:#e3e3e3;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.menu_headerWS_inside_right div ul li a:hover {
+    text-decoration: underline;
+    color:#555;
+}
+
+#watermark{
+	position:fixed;
+	bottom:250px;
+	left:150px;
+	opacity:0.3;
+	z-index:-1;
+	color:#e9e9e9;
+	font-size:220px;
+   letter-spacing: 50px;
+	/* Safari */
+	-webkit-transform: rotate(-25deg);
+	/* Firefox */
+	-moz-transform: rotate(-25deg);
+	/* IE */
+	-ms-transform: rotate(-25deg);
+	/* Opera */
+	-o-transform: rotate(-25deg);
+	/* Internet Explorer */
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
